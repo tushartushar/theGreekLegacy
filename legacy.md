@@ -20,6 +20,13 @@ findings are often followed up by more sensitive diagnostic procedures, and, if 
  to cervical cancer. The test was invented by, and named for, the prominent Greek doctor Georgios Papanikolaou.
 The test was invented by and named after the prominent Greek doctor Georgios Papanikolaou, who started his research in 1923.
 
+####Olympic Games
+
+Olympic Games or Olympics is the biggest international sporting events in which athletes from around the world come together to compete in a variety of games.
+The ancient Olympic Games were held in Olympia in honor of Zeus. 
+The five Olympic Rings represent all the major regions of the world (Asia, Africa, Europe, America and Oceania).
+Also, the Olympic colors represent the flags of all the nations that compete in the games. 
+The International Olympic committee sees the Olympic Games as an important means to promote world peace through fair and equal athletic competion.
 
 
 ##References ##
@@ -33,3 +40,7 @@ https://en.wikipedia.org/wiki/Democracy
 https://en.wikipedia.org/wiki/History_of_democracy
 
 https://en.wikipedia.org/wiki/Pap_test
+
+http://www.history.com/topics/olympic-games
+
+https://en.wikipedia.org/wiki/Olympic_Games
