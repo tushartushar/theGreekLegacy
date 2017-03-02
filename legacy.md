@@ -28,19 +28,32 @@ The five Olympic Rings represent all the major regions of the world (Asia, Afric
 Also, the Olympic colors represent the flags of all the nations that compete in the games. 
 The International Olympic committee sees the Olympic Games as an important means to promote world peace through fair and equal athletic competion.
 
+####The Parthenon
+The Parthenon is a former temple on top of the sacred place of the Acropolis, situated at the center of Athens, the capital of Greece. 
+It is dedicated to the goddess Athena (Modern Greek: "Αθηνά") who is believed to be the city’s patron (Wikipedia). It is also estimated that 
+the Athenians began its construction at 447 BC during an era when the Athenian Empire was very powerful (ibid). 
+However, other sources refer to a previous establishment that had already started to be built when it was burned by the Persians at 480 BC, 
+at the position where the Parthenon was built later on (Ancient-Greece, 2002). The Parthenon was finally completed in 438 BC although some minor 
+decoration changes continued for 6 more years (until 432 BC). It should be mentioned that the Parthenon, which was built by following the standards 
+of the Doric order, is undoubtedly the most important surviving building of Classical Greece (Wikipedia).
+
 
 ##References ##
 
-https://en.wikipedia.org/wiki/History_of_cartography
+http://ancient-greece.org/architecture/parthenon.html
 
 https://en.wikipedia.org/wiki/Anaximander
 
 https://en.wikipedia.org/wiki/Democracy
 
+https://en.wikipedia.org/wiki/History_of_cartography
+
 https://en.wikipedia.org/wiki/History_of_democracy
+
+https://en.wikipedia.org/wiki/Olympic_Games
 
 https://en.wikipedia.org/wiki/Pap_test
 
-http://www.history.com/topics/olympic-games
+https://en.wikipedia.org/wiki/Parthenon
 
-https://en.wikipedia.org/wiki/Olympic_Games
+http://www.history.com/topics/olympic-games
