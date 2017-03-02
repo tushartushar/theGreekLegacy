@@ -1,2 +1,0 @@
-# theGreekLegacy
-The Greek Legacy
