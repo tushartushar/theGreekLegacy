@@ -1,6 +1,5 @@
-#The Greek Legacy
+#The Greek Legacy #
 
-==================================================================================================================================
 ####Cartography
 
 Cartography is the study and practice of making maps.It has played an important role in travel and navigation since ancient times.
@@ -13,12 +12,12 @@ Democracy is a system of government in which the citizens exercise power directl
 Democracy is sometimes referred to as "rule of the majority".
 Democracy can be traced back from the present day to classical Athens and Greeks in the 6th century B.C.
 
-References
-----------------------------------------------------------------------------------------------------------------------------------
-https://en.wikipedia.org/wiki/History_of_cartography
-https://en.wikipedia.org/wiki/Anaximander
-https://en.wikipedia.org/wiki/Democracy
-https://en.wikipedia.org/wiki/History_of_democracy
-----------------------------------------------------------------------------------------------------------------------------------
+##References ##
 
-==================================================================================================================================
+https://en.wikipedia.org/wiki/History_of_cartography
+
+https://en.wikipedia.org/wiki/Anaximander
+
+https://en.wikipedia.org/wiki/Democracy
+
+https://en.wikipedia.org/wiki/History_of_democracy
