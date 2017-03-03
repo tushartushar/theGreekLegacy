@@ -50,7 +50,7 @@ The word frappe comes from French and it means to hit which is also the cause fo
 
 ###The Delphic maxims
 
-Are a set of 147 aphorisms inscribed at Delphi. Originally, they were said to have been given by the Greek god Apollo's Oracle at Delphi and were therefore attributed to Apollo himself.[1] The 5th century scholar Stobaeus later attributed them to the Seven Sages of Greece.[2] Contemporary scholars, however, hold that their original authorship is uncertain and that "most likely they were popular proverbs, which tended later to be attributed to particular sages."[3] Perhaps the most famous of these maxims is 'know thyself', which was carved into the Temple of Apollo at Delphi. The specific order and wording of each maxim varies between different versions (and translations) of the text.
+Are a set of 147 aphorisms inscribed at Delphi. Originally, they were said to have been given by the Greek god Apollo's Oracle at Delphi and were therefore attributed to Apollo himself. The 5th century scholar Stobaeus later attributed them to the Seven Sages of Greece. Contemporary scholars, however, hold that their original authorship is uncertain and that "most likely they were popular proverbs, which tended later to be attributed to particular sages." Perhaps the most famous of these maxims is 'know thyself', which was carved into the Temple of Apollo at Delphi. The specific order and wording of each maxim varies between different versions (and translations) of the text.[11]
 
 Some of them are:
 
