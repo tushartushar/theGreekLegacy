@@ -13,9 +13,9 @@ astronomy and geography.
 
 ###Democracy
 
-Democracy is a system of government in which the citizens exercise power directly or elect representatives from among themselves to form a governing body, such as a parliament.
-Democracy is sometimes referred to as "rule of the majority".
-Democracy can be traced back from the present day to classical Athens and Greeks in the 6th century B.C.
+Democracy is a system of government in which the citizens exercise power directly or elect representatives from among themselves to form a governing body, such as a parliament.[3]
+Democracy is sometimes referred to as "rule of the majority".[5]
+Democracy can be traced back from the present day to classical Athens and Greeks in the 6th century B.C.[3]
 
 ###Pap test
 
