@@ -27,11 +27,11 @@ The test was invented by and named after the prominent Greek doctor Georgios Pap
 
 ###Olympic Games
 
-Olympic Games or Olympics is the biggest international sporting events in which athletes from around the world come together to compete in a variety of games.
-The ancient Olympic Games were held in Olympia in honor of Zeus. 
-The five Olympic Rings represent all the major regions of the world (Asia, Africa, Europe, America and Oceania).
-Also, the Olympic colors represent the flags of all the nations that compete in the games. 
-The International Olympic committee sees the Olympic Games as an important means to promote world peace through fair and equal athletic competion.
+Olympic Games [6] or Olympics is the biggest international sporting events in which athletes from around the world come together to compete in a variety of games.
+The ancient Olympic Games were held in Olympia in honour of Zeus. 
+The five Olympic Rings [9] represent all the major regions of the world (Asia, Africa, Europe, America and Oceania).
+Also, the Olympic colours represent the flags of all the nations that compete in the games. 
+The International Olympic committee sees the Olympic Games as an important means to promote world peace through fair and equal athletic competition.
 
 ###The Parthenon
 The Parthenon [8] is a former temple on top of the sacred place of the Acropolis, situated at the center of Athens, the capital of Greece. 
