@@ -48,6 +48,22 @@ Frappe Coffee [10] is an iced coffee drink with foam made by instant coffee and 
 It was invented accidentally in 1957 in Thessaloniki,Greece by a Greek Nescafe representative and has become the most popular coffee drink for Greeks and tourists as well. 
 The word frappe comes from French and it means to hit which is also the cause for the foam. 
 
+###The Delphic maxims
+
+Are a set of 147 aphorisms inscribed at Delphi. Originally, they were said to have been given by the Greek god Apollo's Oracle at Delphi and were therefore attributed to Apollo himself.[1] The 5th century scholar Stobaeus later attributed them to the Seven Sages of Greece.[2] Contemporary scholars, however, hold that their original authorship is uncertain and that "most likely they were popular proverbs, which tended later to be attributed to particular sages."[3] Perhaps the most famous of these maxims is 'know thyself', which was carved into the Temple of Apollo at Delphi. The specific order and wording of each maxim varies between different versions (and translations) of the text.
+
+Some of them are:
+
+* Respect your parents
+* Know what you have learned
+* Be/Know yourself
+* If you are a stranger act like one
+* Control yourself
+* Help your friends
+* Love friendship
+* Listen to everyone
+
+
 ##References
 
 1. http://ancient-greece.org/architecture/parthenon.html
@@ -69,3 +85,5 @@ The word frappe comes from French and it means to hit which is also the cause fo
 9. http://www.history.com/topics/olympic-games
 
 10. https://en.wikipedia.org/wiki/Frapp%C3%A9_coffee
+
+11. https://en.wikipedia.org/wiki/Delphic_maxims
