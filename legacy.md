@@ -63,6 +63,15 @@ Some of them are:
 * Love friendship
 * Listen to everyone
 
+###The Democratisation of Literacy
+
+The Greeks did not just invent an alphabet. They succeeded in making literacy available to the masses. Greek letters, being mapped carefully and extensibly to sounds, were easy to learn. Therefore, even children could learn to read while learning the sounds of the oral vocabulary.
+
+Moreover, by stripping letters off their meaning, reading them lost its psychology influencing ability. Reading it, imposed no references to the properties of the letter. Thus writting became for the first time an instrument of thought. 
+
+Additionally, by organising schools to instruct reading at an elementary level, it became a reflex and a common skill that was later spread to an even bigger population.
+
+
 
 ##References
 
@@ -87,3 +96,5 @@ Some of them are:
 10. https://en.wikipedia.org/wiki/Frapp%C3%A9_coffee
 
 11. https://en.wikipedia.org/wiki/Delphic_maxims
+
+12. D. Crowley and P. Heyer, Communication In History, 1st ed. Abingdon England: Routledge, 2016, pp. 38-43.
