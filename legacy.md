@@ -8,7 +8,7 @@ Cartography [4] is the study and practice of making maps.
 ###Cartography
 
 Cartography is the study and practice of making maps.It has played an important role in travel and navigation since ancient times.
-One of the pioneer cartographers to create the map of the world was Anaximander who made important contributions to the science of 
+One of the pioneer cartographers to create the map of the world was Anaximander who made important contributions to the science of
 astronomy and geography.
 
 ###Democracy
@@ -19,8 +19,8 @@ Democracy can be traced back from the present day to classical Athens and Greeks
 
 ###Pap test
 
-The Papanicolaou test [7] (abbreviated as Pap test, known earlier as Pap smear, cervical smear, or smear test) is a method of cervical 
-screening used to detect potentially pre-cancerous and cancerous processes in the cervix (opening of the uterus or womb). Abnormal 
+The Papanicolaou test [7] (abbreviated as Pap test, known earlier as Pap smear, cervical smear, or smear test) is a method of cervical
+screening used to detect potentially pre-cancerous and cancerous processes in the cervix (opening of the uterus or womb). Abnormal
 findings are often followed up by more sensitive diagnostic procedures, and, if warranted, interventions that aim to prevent progression
  to cervical cancer. The test was invented by, and named for, the prominent Greek doctor Georgios Papanikolaou.
 The test was invented by and named after the prominent Greek doctor Georgios Papanikolaou, who started his research in 1923.
@@ -28,25 +28,25 @@ The test was invented by and named after the prominent Greek doctor Georgios Pap
 ###Olympic Games
 
 Olympic Games [6] or Olympics is the biggest international sporting events in which athletes from around the world come together to compete in a variety of games.
-The ancient Olympic Games were held in Olympia in honour of Zeus. 
+The ancient Olympic Games were held in Olympia in honour of Zeus.
 The five Olympic Rings [9] represent all the major regions of the world (Asia, Africa, Europe, America and Oceania).
-Also, the Olympic colours represent the flags of all the nations that compete in the games. 
+Also, the Olympic colours represent the flags of all the nations that compete in the games.
 The International Olympic committee sees the Olympic Games as an important means to promote world peace through fair and equal athletic competition.
 
 ###The Parthenon
-The Parthenon [8] is a former temple on top of the sacred place of the Acropolis, situated at the center of Athens, the capital of Greece. 
-It is dedicated to the goddess Athena (Modern Greek: "Αθηνά") who is believed to be the city’s patron [8]. It is also estimated that 
-the Athenians began its construction at 447 BC during an era when the Athenian Empire was very powerful [8]. 
-However, other sources refer to a previous establishment that had already started to be built when it was burned by the Persians at 480 BC, 
-at the position where the Parthenon was built later on [1]. The Parthenon was finally completed in 438 BC although some minor 
-decoration changes continued for 6 more years (until 432 BC). It should be mentioned that the Parthenon, which was built by following the standards 
+The Parthenon [8] is a former temple on top of the sacred place of the Acropolis, situated at the center of Athens, the capital of Greece.
+It is dedicated to the goddess Athena (Modern Greek: "Αθηνά") who is believed to be the city’s patron [8]. It is also estimated that
+the Athenians began its construction at 447 BC during an era when the Athenian Empire was very powerful [8].
+However, other sources refer to a previous establishment that had already started to be built when it was burned by the Persians at 480 BC,
+at the position where the Parthenon was built later on [1]. The Parthenon was finally completed in 438 BC although some minor
+decoration changes continued for 6 more years (until 432 BC). It should be mentioned that the Parthenon, which was built by following the standards
 of the Doric order, is undoubtedly the most important surviving building of Classical Greece [4].
 
 ###Frappe Coffee
 
-Frappe Coffee [10] is an iced coffee drink with foam made by instant coffee and is usually served with milk. 
-It was invented accidentally in 1957 in Thessaloniki,Greece by a Greek Nescafe representative and has become the most popular coffee drink for Greeks and tourists as well. 
-The word frappe comes from French and it means to hit which is also the cause for the foam. 
+Frappe Coffee [10] is an iced coffee drink with foam made by instant coffee and is usually served with milk.
+It was invented accidentally in 1957 in Thessaloniki,Greece by a Greek Nescafe representative and has become the most popular coffee drink for Greeks and tourists as well.
+The word frappe comes from French and it means to hit which is also the cause for the foam.
 
 ###The Delphic maxims
 
@@ -67,7 +67,7 @@ Some of them are:
 
 The Greeks did not just invent an alphabet. They succeeded in making literacy available to the masses. Greek letters, being mapped carefully and extensibly to sounds, were easy to learn. Therefore, even children could learn to read while learning the sounds of the oral vocabulary.
 
-Moreover, by stripping letters off their meaning, reading them lost its psychology influencing ability. Reading it, imposed no references to the properties of the letter. Thus writting became for the first time an instrument of thought. 
+Moreover, by stripping letters off their meaning, reading them lost its psychology influencing ability. Reading it, imposed no references to the properties of the letter. Thus writting became for the first time an instrument of thought.
 
 Additionally, by organising schools to instruct reading at an elementary level, it became a reflex and a common skill that was later spread to an even bigger population.
 
@@ -75,9 +75,15 @@ Additionally, by organising schools to instruct reading at an elementary level, 
 
 The Antikythera mechanism is an ancient analogue computer and orrery used to predict astronomical positions and eclipses for calendrical and astrological purposes, as well as the Olympiads, the cycles of the ancient Olympic Games.
 
-The Antikythera mechanism was discovered in 45 metres (148 ft) of water in the Antikythera shipwreck off Point Glyphadia on the Greek island of Antikythera. The wreck was found in April 1900 by a group of Greek sponge divers, who retrieved numerous artefacts, including bronze and marble statues, 
+The Antikythera mechanism was discovered in 45 metres (148 ft) of water in the Antikythera shipwreck off Point Glyphadia on the Greek island of Antikythera. The wreck was found in April 1900 by a group of Greek sponge divers, who retrieved numerous artefacts, including bronze and marble statues,
 
 pottery, unique glassware, jewellery, coins, and the mechanism. All were transferred to the National Museum of Archaeology in Athens for storage and analysis. Merely a lump of corroded bronze and wood at the time, the mechanism went unnoticed for two years while museum staff worked on piecing together more obvious statues
+
+###Theatre
+
+Theatre [14] is a collaborative form of fine art that uses live performers, typically actors or actresses, to present the experience of a real or imagined event before a live audience in a specific place, often a stage. The performers may communicate this experience to the audience through combinations of gesture, speech, song, music, and dance. Elements of art, such as painted scenery and stagecraft such as lighting are used to enhance the physicality, presence and immediacy of the experience.
+
+The city-state of Athens is where western theatre originated.[4] It was part of a broader culture of theatricality and performance in classical Greece that included festivals, religious rituals, politics, law, athletics and gymnastics, music, poetry, weddings, funerals, and symposia.
 
 
 ##References
@@ -107,3 +113,5 @@ pottery, unique glassware, jewellery, coins, and the mechanism. All were transfe
 12. D. Crowley and P. Heyer, Communication In History, 1st ed. Abingdon England: Routledge, 2016, pp. 38-43.
 
 13. https://en.wikipedia.org/wiki/Antikythera_mechanism
+
+14. https://en.wikipedia.org/wiki/Theatre
