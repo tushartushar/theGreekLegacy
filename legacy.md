@@ -1,4 +1,4 @@
-#The Greek Legacy #
+﻿#The Greek Legacy #
 
 Note: Kindly indicate which reference your text is referring to. For example,
 ```
@@ -71,6 +71,13 @@ Moreover, by stripping letters off their meaning, reading them lost its psycholo
 
 Additionally, by organising schools to instruct reading at an elementary level, it became a reflex and a common skill that was later spread to an even bigger population.
 
+###Antikythera mechanism
+
+The Antikythera mechanism is an ancient analogue computer and orrery used to predict astronomical positions and eclipses for calendrical and astrological purposes, as well as the Olympiads, the cycles of the ancient Olympic Games.
+
+The Antikythera mechanism was discovered in 45 metres (148 ft) of water in the Antikythera shipwreck off Point Glyphadia on the Greek island of Antikythera. The wreck was found in April 1900 by a group of Greek sponge divers, who retrieved numerous artefacts, including bronze and marble statues, 
+
+pottery, unique glassware, jewellery, coins, and the mechanism. All were transferred to the National Museum of Archaeology in Athens for storage and analysis. Merely a lump of corroded bronze and wood at the time, the mechanism went unnoticed for two years while museum staff worked on piecing together more obvious statues
 
 
 ##References
@@ -98,3 +105,5 @@ Additionally, by organising schools to instruct reading at an elementary level, 
 11. https://en.wikipedia.org/wiki/Delphic_maxims
 
 12. D. Crowley and P. Heyer, Communication In History, 1st ed. Abingdon England: Routledge, 2016, pp. 38-43.
+
+13. https://en.wikipedia.org/wiki/Antikythera_mechanism
