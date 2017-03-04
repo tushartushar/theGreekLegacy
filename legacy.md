@@ -85,6 +85,11 @@ Theatre [14] is a collaborative form of fine art that uses live performers, typi
 
 The city-state of Athens is where western theatre originated.[4] It was part of a broader culture of theatricality and performance in classical Greece that included festivals, religious rituals, politics, law, athletics and gymnastics, music, poetry, weddings, funerals, and symposia.
 
+###Mathematics
+
+The Greeks produced great advancements in mathematics [15] which are still used today. Euclid was known for the basic rules and terms of geometry. Pythagoras was famous for his theorem A2 +B2 = C2 for a right triangle. Pythagoras also came up with the value of pie to calculate the circumference of a circle.
+Archimedes discovered the physical law of displacement. The law of displacement is when an object moves the same volume of water as the object which is placed in it. Archimedes also used levers and pulleys to move heavy objects. He once launched a fully loaded ship all by himself. Archimedes also invented the Archimedes screw, which raises water up from rivers for the irrigation of fields. In addition to discoveries in math and physics, he also invented weapons to help the Greeks fight off Roman invasion. One of those weapons was the catapult. In 21 B.C. the Romans captured his city and killed him.
+
 
 ##References
 
@@ -115,3 +120,5 @@ The city-state of Athens is where western theatre originated.[4] It was part of 
 13. https://en.wikipedia.org/wiki/Antikythera_mechanism
 
 14. https://en.wikipedia.org/wiki/Theatre
+
+15. http://historylink101.com/2/greece3/math-science.htm
