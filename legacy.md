@@ -130,4 +130,4 @@ Practically, Archimedes' principle allows the buoyancy of an object partially or
 
 15. http://historylink101.com/2/greece3/math-science.htm
 
-16.https://en.wikipedia.org/wiki/Archimedes'_principle
+16. https://en.wikipedia.org/wiki/Archimedes'_principle
