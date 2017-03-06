@@ -90,6 +90,13 @@ The city-state of Athens is where western theatre originated.[4] It was part of 
 The Greeks produced great advancements in mathematics [15] which are still used today. Euclid was known for the basic rules and terms of geometry. Pythagoras was famous for his theorem A2 +B2 = C2 for a right triangle. Pythagoras also came up with the value of pie to calculate the circumference of a circle.
 Archimedes discovered the physical law of displacement. The law of displacement is when an object moves the same volume of water as the object which is placed in it. Archimedes also used levers and pulleys to move heavy objects. He once launched a fully loaded ship all by himself. Archimedes also invented the Archimedes screw, which raises water up from rivers for the irrigation of fields. In addition to discoveries in math and physics, he also invented weapons to help the Greeks fight off Roman invasion. One of those weapons was the catapult. In 21 B.C. the Romans captured his city and killed him.
 
+#Archimedes' Principle
+
+In On Floating Bodies, Archimedes suggested that (c. 250 BC):
+
+    Any object, wholly or partially immersed in a fluid, is buoyed up by a force equal to the weight of the fluid displaced by the object.
+
+Practically, Archimedes' principle allows the buoyancy of an object partially or fully immersed in a liquid to be calculated. The downward force on the object is simply its weight. The upward, or buoyant, force on the object is that stated by Archimedes' principle, above. Thus, the net upward force on the object is the difference between the buoyant force and its weight. If this net force is positive, the object rises; if negative, the object sinks; and if zero, the object is neutrally buoyant - that is, it remains in place without either rising or sinking. In simple words, Archimedes' principle states that, when a body is partially or completely immersed in a fluid, it experiences an apparent loss in weight that is equal to the weight of the fluid displaced by the immersed part of the body.
 
 ##References
 
@@ -122,3 +129,5 @@ Archimedes discovered the physical law of displacement. The law of displacement 
 14. https://en.wikipedia.org/wiki/Theatre
 
 15. http://historylink101.com/2/greece3/math-science.htm
+
+16.https://en.wikipedia.org/wiki/Archimedes'_principle
