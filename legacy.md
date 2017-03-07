@@ -98,6 +98,10 @@ In On Floating Bodies, Archimedes suggested that (c. 250 BC):
 
 Practically, Archimedes' principle allows the buoyancy of an object partially or fully immersed in a liquid to be calculated. The downward force on the object is simply its weight. The upward, or buoyant, force on the object is that stated by Archimedes' principle, above. Thus, the net upward force on the object is the difference between the buoyant force and its weight. If this net force is positive, the object rises; if negative, the object sinks; and if zero, the object is neutrally buoyant - that is, it remains in place without either rising or sinking. In simple words, Archimedes' principle states that, when a body is partially or completely immersed in a fluid, it experiences an apparent loss in weight that is equal to the weight of the fluid displaced by the immersed part of the body.
 
+###Astronomy
+
+The development of astronomy [17] by the Greek and Hellenistic astronomers is considered by historians to be a major phase in the history of astronomy. Greek astronomy is characterized from the start by seeking a rational, physical explanation for celestial phenomena. Most of the constellations of the northern hemisphere derive from Greek astronomy, as are the names of many stars, asteroids, and planets. It was influenced by Egyptian and especially Babylonian astronomy; in turn, it influenced Indian, Arabic-Islamic and Western European astronomy.
+
 ##References
 
 1. http://ancient-greece.org/architecture/parthenon.html
@@ -131,3 +135,5 @@ Practically, Archimedes' principle allows the buoyancy of an object partially or
 15. http://historylink101.com/2/greece3/math-science.htm
 
 16. https://en.wikipedia.org/wiki/Archimedes'_principle
+
+17. https://en.wikipedia.org/wiki/Ancient_Greek_astronomy
