@@ -7,8 +7,8 @@ Cartography [4] is the study and practice of making maps.
 
 ###Cartography
 
-Cartography is the study and practice of making maps.It has played an important role in travel and navigation since ancient times.
-One of the pioneer cartographers to create the map of the world was Anaximander who made important contributions to the science of
+Cartography [4] is the study and practice of making maps.It has played an important role in travel and navigation since ancient times.
+One of the pioneer cartographers to create the map of the world was Anaximander [2] who made important contributions to the science of
 astronomy and geography.
 
 ###Democracy
