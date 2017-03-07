@@ -102,6 +102,14 @@ Practically, Archimedes' principle allows the buoyancy of an object partially or
 
 The development of astronomy [17] by the Greek and Hellenistic astronomers is considered by historians to be a major phase in the history of astronomy. Greek astronomy is characterized from the start by seeking a rational, physical explanation for celestial phenomena. Most of the constellations of the northern hemisphere derive from Greek astronomy, as are the names of many stars, asteroids, and planets. It was influenced by Egyptian and especially Babylonian astronomy; in turn, it influenced Indian, Arabic-Islamic and Western European astronomy.
 
+###Marathon
+
+The marathon[18] is a long-distance running race with an official distance of 42.195 kilometres (26.219 miles, or 26 miles 385 yards), usually run as a road race. The event was instituted in commemoration of the fabled run of the Greek soldier Pheidippides (more correctly, Philippides), a messenger from the Battle of Marathon to Athens, who reported the victory.
+
+The name Marathon comes from the legend of Philippides or Pheidippides, the Greek messenger. The legend states that he was sent from the battlefield of Marathon to Athens to announce that the Persians had been defeated in the Battle of Marathon (in which he had just fought), which took place in August or September, 490 BC. It is said that he ran the entire distance without stopping and burst into the assembly, exclaiming νενικήκαμεν (nenikēkamen, "we have won!"), before collapsing and dying.
+
+The marathon was one of the original modern Olympic events in 1896, though the distance did not become standardized until 1921. More than 500 marathons are held throughout the world each year, with the vast majority of competitors being recreational athletes as larger marathons can have tens of thousands of participants.
+
 ##References
 
 1. http://ancient-greece.org/architecture/parthenon.html
@@ -137,3 +145,5 @@ The development of astronomy [17] by the Greek and Hellenistic astronomers is co
 16. https://en.wikipedia.org/wiki/Archimedes'_principle
 
 17. https://en.wikipedia.org/wiki/Ancient_Greek_astronomy
+
+18. https://en.wikipedia.org/wiki/Marathon
