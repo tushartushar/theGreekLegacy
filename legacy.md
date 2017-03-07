@@ -138,6 +138,10 @@ The sieve of Eratosthenes is one of the most efficient ways to find all of the s
 
 The sieve may be used to find primes in arithmetic progressions.[4]
 
+###Vending Machine
+
+The first vending machine was a construction of Heron of Alexandria (c. 10-70 AD). He was an ancient Greek mathematician and engineer. His machine accepted a coin and then dispensed a set amount of holy water. When the coin was deposited, it fell upon a pan attached to a lever. The lever opened up a valve which let some water flow out. The pan continued to tilt with the weight of the coin until it fell off, at which point a counter-weight would snap the lever back up and turn off the valve. [22]
+
 ##References
 
 1. http://ancient-greece.org/architecture/parthenon.html
@@ -181,3 +185,5 @@ The sieve may be used to find primes in arithmetic progressions.[4]
 20. https://en.wikipedia.org/wiki/Phaistos_Disc
 
 21. https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
+
+22. https://en.wikipedia.org/wiki/Vending_machine
