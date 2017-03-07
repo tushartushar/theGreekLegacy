@@ -1,4 +1,4 @@
-﻿#The Greek Legacy #
+#The Greek Legacy #
 
 Note: Kindly indicate which reference your text is referring to. For example,
 ```
@@ -106,9 +106,17 @@ The development of astronomy [17] by the Greek and Hellenistic astronomers is co
 
 The marathon[18] is a long-distance running race with an official distance of 42.195 kilometres (26.219 miles, or 26 miles 385 yards), usually run as a road race. The event was instituted in commemoration of the fabled run of the Greek soldier Pheidippides (more correctly, Philippides), a messenger from the Battle of Marathon to Athens, who reported the victory.
 
-The name Marathon comes from the legend of Philippides or Pheidippides, the Greek messenger. The legend states that he was sent from the battlefield of Marathon to Athens to announce that the Persians had been defeated in the Battle of Marathon (in which he had just fought), which took place in August or September, 490 BC. It is said that he ran the entire distance without stopping and burst into the assembly, exclaiming νενικήκαμεν (nenikēkamen, "we have won!"), before collapsing and dying.
+The name Marathon comes from the legend of Philippides or Pheidippides, the Greek messenger. The legend states that he was sent from the battlefield of Marathon to Athens to announce that the Persians had been defeated in the Battle of Marathon (in which he had just fought), which took place in August or September, 490 BC. It is said that he ran the entire distance without stopping and burst into the assembly, exclaiming νενικήκαμεν (nenik?kamen, "we have won!"), before collapsing and dying.
 
 The marathon was one of the original modern Olympic events in 1896, though the distance did not become standardized until 1921. More than 500 marathons are held throughout the world each year, with the vast majority of competitors being recreational athletes as larger marathons can have tens of thousands of participants.
+
+###Coasts and beaches
+
+The Greek coast has a total length of approximately 16,000 km. Half of this length includes the thousands of Greek islands scattered through the Greek seas, while the rest extends along the mainland.
+The Greek shores are world-famous and exceedingly popular because they are known for their crystal clean and clear waters, as well as for their unique diversity.
+The visitor has the opportunity to enjoy beaches stretching along over many kilometers, sheltered bays and coves, golden stretches of sand with dunes, pebble beaches, coastal caves with steep rocks and dark sand typical of volcanic soil. Every year hundreds of beaches and marinas in Greece are awarded with the “Blue Flag”.
+Most of the thousands of Greek coasts are freely accessible and you can easily discover and enjoy them. 
+There are also many organized beaches in the country, with the necessary infrastructure providing high-quality services (umbrellas, reclining chairs, change booths, cafes, bar-restaurants etc), where, apart from swimming, you can enjoy water sports (water skiing, windsurfing, diving, etc) as well as other means of having fun in the water, such as the parasailing, “inner tubes”, “bananas”, wakeboard, jet ski, etc. All organized beaches also have manned lifeguard towers, ensuring safe swimming in the area.
 
 ##References
 
@@ -147,3 +155,5 @@ The marathon was one of the original modern Olympic events in 1896, though the d
 17. https://en.wikipedia.org/wiki/Ancient_Greek_astronomy
 
 18. https://en.wikipedia.org/wiki/Marathon
+
+19. http://www.visitgreece.gr/en/sea/beaches/coasts_and_beaches
