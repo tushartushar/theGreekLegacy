@@ -1,4 +1,4 @@
-#The Greek Legacy #
+﻿#The Greek Legacy #
 
 Note: Kindly indicate which reference your text is referring to. For example,
 ```
@@ -118,6 +118,15 @@ The visitor has the opportunity to enjoy beaches stretching along over many kilo
 Most of the thousands of Greek coasts are freely accessible and you can easily discover and enjoy them. 
 There are also many organized beaches in the country, with the necessary infrastructure providing high-quality services (umbrellas, reclining chairs, change booths, cafes, bar-restaurants etc), where, apart from swimming, you can enjoy water sports (water skiing, windsurfing, diving, etc) as well as other means of having fun in the water, such as the parasailing, “inner tubes”, “bananas”, wakeboard, jet ski, etc. All organized beaches also have manned lifeguard towers, ensuring safe swimming in the area.
 
+###Phaistos Disc
+
+The Phaistos Disc [20] (also spelled Phaistos Disk, Phaestos Disc) is a disk of fired clay from the Minoan palace of Phaistos on the island of Crete, possibly dating to the middle or late Minoan Bronze Age (second millennium B.C.). Now, the island of Crete is part of modern Greece. The disk is about 15 cm (5.9 in) in diameter and covered on both sides with a spiral of stamped symbols. Its purpose and meaning, and even its original geographical place of manufacture, remain disputed, making it one of the most famous mysteries of archaeology. This unique object is now on display at the archaeological museum of Heraklion.
+
+The disc was discovered in 1908 by the Italian archaeologist Luigi Pernier in the Minoan palace-site of Phaistos, and features 241 tokens, comprising 45 distinct signs, which were apparently made by pressing hieroglyphic "seals" into a disc of soft clay, in a clockwise sequence spiraling toward the center of the disk.
+
+The Phaistos Disc captured the imagination of amateur and professional archaeologists, and many attempts have been made to decipher the code behind the disc's signs. While it is not clear that it is a script, most attempted decipherments assume that it is; most additionally assume a syllabary, others an alphabet or logography. Attempts at decipherment are generally thought to be unlikely to succeed unless more examples of the signs are found, as it is generally agreed that there is not enough context available for a meaningful analysis.
+
+Although the Phaistos Disc is generally accepted as authentic by archaeologists, a few scholars believe that the disc is a forgery or a hoax.
 ##References
 
 1. http://ancient-greece.org/architecture/parthenon.html
@@ -157,3 +166,5 @@ There are also many organized beaches in the country, with the necessary infrast
 18. https://en.wikipedia.org/wiki/Marathon
 
 19. http://www.visitgreece.gr/en/sea/beaches/coasts_and_beaches
+
+20. https://en.wikipedia.org/wiki/Phaistos_Disc
