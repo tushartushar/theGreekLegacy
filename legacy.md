@@ -1,4 +1,4 @@
-﻿#The Greek Legacy #
+#The Greek Legacy #
 
 Note: Kindly indicate which reference your text is referring to. For example,
 ```
@@ -127,6 +127,17 @@ The disc was discovered in 1908 by the Italian archaeologist Luigi Pernier in th
 The Phaistos Disc captured the imagination of amateur and professional archaeologists, and many attempts have been made to decipher the code behind the disc's signs. While it is not clear that it is a script, most attempted decipherments assume that it is; most additionally assume a syllabary, others an alphabet or logography. Attempts at decipherment are generally thought to be unlikely to succeed unless more examples of the signs are found, as it is generally agreed that there is not enough context available for a meaningful analysis.
 
 Although the Phaistos Disc is generally accepted as authentic by archaeologists, a few scholars believe that the disc is a forgery or a hoax.
+
+###Sieve of Eratosthenes
+
+In mathematics, the sieve of Eratosthenes (Ancient Greek: κόσκινον ?ρατοσθένους, koskinon Eratosthenous), one of a number of prime number sieves, is a simple, ancient algorithm for finding all prime numbers up to any given limit. It does so by iteratively marking as composite (i.e., not prime) the multiples of each prime, starting with the multiples of 2.[1]
+
+The multiples of a given prime are generated as a sequence of numbers starting from that prime, with constant difference between them that is equal to that prime.[1] This is the sieve's key distinction from using trial division to sequentially test each candidate number for divisibility by each prime.[2]
+
+The sieve of Eratosthenes is one of the most efficient ways to find all of the smaller primes. It is named after Eratosthenes of Cyrene, a Greek mathematician; although none of his works have survived, the sieve was described and attributed to Eratosthenes in the Introduction to Arithmetic by Nicomachus.[3]
+
+The sieve may be used to find primes in arithmetic progressions.[4]
+
 ##References
 
 1. http://ancient-greece.org/architecture/parthenon.html
@@ -168,3 +179,5 @@ Although the Phaistos Disc is generally accepted as authentic by archaeologists,
 19. http://www.visitgreece.gr/en/sea/beaches/coasts_and_beaches
 
 20. https://en.wikipedia.org/wiki/Phaistos_Disc
+
+21. https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
