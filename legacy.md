@@ -1,4 +1,4 @@
-﻿#The Greek Legacy #
+#The Greek Legacy #
 
 Note: Kindly indicate which reference your text is referring to. For example,
 ```
@@ -98,6 +98,12 @@ In On Floating Bodies, Archimedes suggested that (c. 250 BC):
 
 Practically, Archimedes' principle allows the buoyancy of an object partially or fully immersed in a liquid to be calculated. The downward force on the object is simply its weight. The upward, or buoyant, force on the object is that stated by Archimedes' principle, above. Thus, the net upward force on the object is the difference between the buoyant force and its weight. If this net force is positive, the object rises; if negative, the object sinks; and if zero, the object is neutrally buoyant - that is, it remains in place without either rising or sinking. In simple words, Archimedes' principle states that, when a body is partially or completely immersed in a fluid, it experiences an apparent loss in weight that is equal to the weight of the fluid displaced by the immersed part of the body.
 
+###Ancient Greek Philosophy
+
+Ancient Greek philosophy arose in the 6th century BC and continued throughout the Hellenistic period and the period in which Ancient Greece was part of the Roman Empire. Philosophy was used to make sense out of the world in a non-religious way. It dealt with a wide variety of subjects, including political philosophy, ethics, metaphysics, ontology, logic, biology, rhetoric, and aesthetics[citation needed].
+
+Many philosophers around the world agree that Greek philosophy has influenced much of Western culture since its inception. Alfred North Whitehead once noted: "The safest general characterization of the European philosophical tradition is that it consists of a series of footnotes to Plato."[1] Clear, unbroken lines of influence lead from ancient Greek and Hellenistic philosophers to Early Islamic philosophy, the European Renaissance and the Age of Enlightenment.[2]
+
 ##References
 
 1. http://ancient-greece.org/architecture/parthenon.html
@@ -131,3 +137,5 @@ Practically, Archimedes' principle allows the buoyancy of an object partially or
 15. http://historylink101.com/2/greece3/math-science.htm
 
 16. https://en.wikipedia.org/wiki/Archimedes'_principle
+
+17. https://en.wikipedia.org/wiki/Ancient_Greek_philosophy
