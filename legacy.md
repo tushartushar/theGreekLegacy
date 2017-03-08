@@ -7,8 +7,8 @@ Cartography [4] is the study and practice of making maps.
 
 ###Cartography
 
-Cartography is the study and practice of making maps.It has played an important role in travel and navigation since ancient times.
-One of the pioneer cartographers to create the map of the world was Anaximander who made important contributions to the science of
+Cartography [4] is the study and practice of making maps.It has played an important role in travel and navigation since ancient times.
+One of the pioneer cartographers to create the map of the world was Anaximander [2] who made important contributions to the science of
 astronomy and geography.
 
 ###Democracy
@@ -98,11 +98,61 @@ In On Floating Bodies, Archimedes suggested that (c. 250 BC):
 
 Practically, Archimedes' principle allows the buoyancy of an object partially or fully immersed in a liquid to be calculated. The downward force on the object is simply its weight. The upward, or buoyant, force on the object is that stated by Archimedes' principle, above. Thus, the net upward force on the object is the difference between the buoyant force and its weight. If this net force is positive, the object rises; if negative, the object sinks; and if zero, the object is neutrally buoyant - that is, it remains in place without either rising or sinking. In simple words, Archimedes' principle states that, when a body is partially or completely immersed in a fluid, it experiences an apparent loss in weight that is equal to the weight of the fluid displaced by the immersed part of the body.
 
+<<<<<<< HEAD
 ###Ancient Greek Philosophy
 
 Ancient Greek philosophy arose in the 6th century BC and continued throughout the Hellenistic period and the period in which Ancient Greece was part of the Roman Empire. Philosophy was used to make sense out of the world in a non-religious way. It dealt with a wide variety of subjects, including political philosophy, ethics, metaphysics, ontology, logic, biology, rhetoric, and aesthetics[citation needed].
 
 Many philosophers around the world agree that Greek philosophy has influenced much of Western culture since its inception. Alfred North Whitehead once noted: "The safest general characterization of the European philosophical tradition is that it consists of a series of footnotes to Plato."[1] Clear, unbroken lines of influence lead from ancient Greek and Hellenistic philosophers to Early Islamic philosophy, the European Renaissance and the Age of Enlightenment.[2]
+=======
+###Astronomy
+
+The development of astronomy [17] by the Greek and Hellenistic astronomers is considered by historians to be a major phase in the history of astronomy. Greek astronomy is characterized from the start by seeking a rational, physical explanation for celestial phenomena. Most of the constellations of the northern hemisphere derive from Greek astronomy, as are the names of many stars, asteroids, and planets. It was influenced by Egyptian and especially Babylonian astronomy; in turn, it influenced Indian, Arabic-Islamic and Western European astronomy.
+
+###Marathon
+
+The marathon[18] is a long-distance running race with an official distance of 42.195 kilometres (26.219 miles, or 26 miles 385 yards), usually run as a road race. The event was instituted in commemoration of the fabled run of the Greek soldier Pheidippides (more correctly, Philippides), a messenger from the Battle of Marathon to Athens, who reported the victory.
+
+The name Marathon comes from the legend of Philippides or Pheidippides, the Greek messenger. The legend states that he was sent from the battlefield of Marathon to Athens to announce that the Persians had been defeated in the Battle of Marathon (in which he had just fought), which took place in August or September, 490 BC. It is said that he ran the entire distance without stopping and burst into the assembly, exclaiming νενικήκαμεν (nenik?kamen, "we have won!"), before collapsing and dying.
+
+The marathon was one of the original modern Olympic events in 1896, though the distance did not become standardized until 1921. More than 500 marathons are held throughout the world each year, with the vast majority of competitors being recreational athletes as larger marathons can have tens of thousands of participants.
+
+###Coasts and beaches
+
+The Greek coast has a total length of approximately 16,000 km. Half of this length includes the thousands of Greek islands scattered through the Greek seas, while the rest extends along the mainland.
+The Greek shores are world-famous and exceedingly popular because they are known for their crystal clean and clear waters, as well as for their unique diversity.
+The visitor has the opportunity to enjoy beaches stretching along over many kilometers, sheltered bays and coves, golden stretches of sand with dunes, pebble beaches, coastal caves with steep rocks and dark sand typical of volcanic soil. Every year hundreds of beaches and marinas in Greece are awarded with the “Blue Flag”.
+Most of the thousands of Greek coasts are freely accessible and you can easily discover and enjoy them. 
+There are also many organized beaches in the country, with the necessary infrastructure providing high-quality services (umbrellas, reclining chairs, change booths, cafes, bar-restaurants etc), where, apart from swimming, you can enjoy water sports (water skiing, windsurfing, diving, etc) as well as other means of having fun in the water, such as the parasailing, “inner tubes”, “bananas”, wakeboard, jet ski, etc. All organized beaches also have manned lifeguard towers, ensuring safe swimming in the area.
+
+###Phaistos Disc
+
+The Phaistos Disc [20] (also spelled Phaistos Disk, Phaestos Disc) is a disk of fired clay from the Minoan palace of Phaistos on the island of Crete, possibly dating to the middle or late Minoan Bronze Age (second millennium B.C.). Now, the island of Crete is part of modern Greece. The disk is about 15 cm (5.9 in) in diameter and covered on both sides with a spiral of stamped symbols. Its purpose and meaning, and even its original geographical place of manufacture, remain disputed, making it one of the most famous mysteries of archaeology. This unique object is now on display at the archaeological museum of Heraklion.
+
+The disc was discovered in 1908 by the Italian archaeologist Luigi Pernier in the Minoan palace-site of Phaistos, and features 241 tokens, comprising 45 distinct signs, which were apparently made by pressing hieroglyphic "seals" into a disc of soft clay, in a clockwise sequence spiraling toward the center of the disk.
+
+The Phaistos Disc captured the imagination of amateur and professional archaeologists, and many attempts have been made to decipher the code behind the disc's signs. While it is not clear that it is a script, most attempted decipherments assume that it is; most additionally assume a syllabary, others an alphabet or logography. Attempts at decipherment are generally thought to be unlikely to succeed unless more examples of the signs are found, as it is generally agreed that there is not enough context available for a meaningful analysis.
+
+Although the Phaistos Disc is generally accepted as authentic by archaeologists, a few scholars believe that the disc is a forgery or a hoax.
+
+###Sieve of Eratosthenes
+
+In mathematics, the sieve of Eratosthenes (Ancient Greek: κόσκινον ?ρατοσθένους, koskinon Eratosthenous), one of a number of prime number sieves, is a simple, ancient algorithm for finding all prime numbers up to any given limit. It does so by iteratively marking as composite (i.e., not prime) the multiples of each prime, starting with the multiples of 2.[1]
+
+The multiples of a given prime are generated as a sequence of numbers starting from that prime, with constant difference between them that is equal to that prime.[1] This is the sieve's key distinction from using trial division to sequentially test each candidate number for divisibility by each prime.[2]
+
+The sieve of Eratosthenes is one of the most efficient ways to find all of the smaller primes. It is named after Eratosthenes of Cyrene, a Greek mathematician; although none of his works have survived, the sieve was described and attributed to Eratosthenes in the Introduction to Arithmetic by Nicomachus.[3]
+
+The sieve may be used to find primes in arithmetic progressions.[4]
+
+###Vending Machine
+
+The first vending machine was a construction of Heron of Alexandria (c. 10-70 AD). He was an ancient Greek mathematician and engineer. His machine accepted a coin and then dispensed a set amount of holy water. When the coin was deposited, it fell upon a pan attached to a lever. The lever opened up a valve which let some water flow out. The pan continued to tilt with the weight of the coin until it fell off, at which point a counter-weight would snap the lever back up and turn off the valve. [22]
+
+###Strained yogurt
+
+Strained yogurt, Greek yogurt, yogurt cheese, or labneh (Arabic: لبنة‎‎ labnah, pronounced LEB-neigh), is yogurt that has been strained to remove its whey, resulting in a thicker consistency than unstrained yogurt, while preserving yogurt's distinctive, sour taste. Like many types of yogurt, strained yogurt is often made from milk that has been enriched by boiling off some of its water content, or by adding extra butterfat and powdered milk. In Europe and North America, it is often made with low-fat or fat-free yogurt. In Scandinavia, particularly Iceland, a similar product, skyr is produced. [23]7
+>>>>>>> 0e8518462a2cba2b2725f6d211ab6de98eb90397
 
 ##References
 
@@ -138,4 +188,20 @@ Many philosophers around the world agree that Greek philosophy has influenced mu
 
 16. https://en.wikipedia.org/wiki/Archimedes'_principle
 
+<<<<<<< HEAD
 17. https://en.wikipedia.org/wiki/Ancient_Greek_philosophy
+=======
+17. https://en.wikipedia.org/wiki/Ancient_Greek_astronomy
+
+18. https://en.wikipedia.org/wiki/Marathon
+
+19. http://www.visitgreece.gr/en/sea/beaches/coasts_and_beaches
+
+20. https://en.wikipedia.org/wiki/Phaistos_Disc
+
+21. https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
+
+22. https://en.wikipedia.org/wiki/Vending_machine
+
+23. https://en.wikipedia.org/wiki/Strained_yogurt
+>>>>>>> 0e8518462a2cba2b2725f6d211ab6de98eb90397
