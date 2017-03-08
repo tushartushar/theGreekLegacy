@@ -142,6 +142,10 @@ The sieve may be used to find primes in arithmetic progressions.[4]
 
 The first vending machine was a construction of Heron of Alexandria (c. 10-70 AD). He was an ancient Greek mathematician and engineer. His machine accepted a coin and then dispensed a set amount of holy water. When the coin was deposited, it fell upon a pan attached to a lever. The lever opened up a valve which let some water flow out. The pan continued to tilt with the weight of the coin until it fell off, at which point a counter-weight would snap the lever back up and turn off the valve. [22]
 
+###Strained yogurt
+
+Strained yogurt, Greek yogurt, yogurt cheese, or labneh (Arabic: لبنة‎‎ labnah, pronounced LEB-neigh), is yogurt that has been strained to remove its whey, resulting in a thicker consistency than unstrained yogurt, while preserving yogurt's distinctive, sour taste. Like many types of yogurt, strained yogurt is often made from milk that has been enriched by boiling off some of its water content, or by adding extra butterfat and powdered milk. In Europe and North America, it is often made with low-fat or fat-free yogurt. In Scandinavia, particularly Iceland, a similar product, skyr is produced. [23]7
+
 ##References
 
 1. http://ancient-greece.org/architecture/parthenon.html
@@ -187,3 +191,5 @@ The first vending machine was a construction of Heron of Alexandria (c. 10-70 AD
 21. https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
 
 22. https://en.wikipedia.org/wiki/Vending_machine
+
+23. https://en.wikipedia.org/wiki/Strained_yogurt
