@@ -19,7 +19,7 @@ Democracy can be traced back from the present day to classical Athens and Greeks
 
 ###Pap test
 
-The Papanicolaou test [7] (abbreviated as Pap test, known earlier as Pap smear, cervical smear, or smear test) is a method of cervical
+The Papanicolaou test  (abbreviated as Pap test, known earlier as Pap smear, cervical smear, or smear test) is a method of cervical
 screening used to detect potentially pre-cancerous and cancerous processes in the cervix (opening of the uterus or womb). Abnormal
 findings are often followed up by more sensitive diagnostic procedures, and, if warranted, interventions that aim to prevent progression
  to cervical cancer. The test was invented by, and named for, the prominent Greek doctor Georgios Papanikolaou.
