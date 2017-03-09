@@ -40,7 +40,7 @@ the Athenians began its construction at 447 BC during an era when the Athenian E
 However, other sources refer to a previous establishment that had already started to be built when it was burned by the Persians at 480 BC,
 at the position where the Parthenon was built later on [1]. The Parthenon was finally completed in 438 BC although some minor
 decoration changes continued for 6 more years (until 432 BC). It should be mentioned that the Parthenon, which was built by following the standards
-of the Doric order, is undoubtedly the most important surviving building of Classical Greece [4].
+of the Doric order, is undoubtedly the most important surviving building of Classical Greece [8].
 
 ###Frappe Coffee
 
