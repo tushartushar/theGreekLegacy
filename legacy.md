@@ -1,4 +1,4 @@
-Ôªø#The Greek Legacy #
+#The Greek Legacy #
 
 Note: Kindly indicate which reference your text is referring to. For example,
 ```
@@ -35,7 +35,7 @@ The International Olympic committee sees the Olympic Games as an important means
 
 ###The Parthenon
 The Parthenon [8] is a former temple on top of the sacred place of the Acropolis, situated at the center of Athens, the capital of Greece.
-It is dedicated to the goddess Athena (Modern Greek: "ŒëŒ∏Œ∑ŒΩŒ¨") who is believed to be the city‚Äôs patron [8]. It is also estimated that
+It is dedicated to the goddess Athena (Modern Greek: "¡ËÁÌ‹") who is believed to be the cityís patron [8]. It is also estimated that
 the Athenians began its construction at 447 BC during an era when the Athenian Empire was very powerful [8].
 However, other sources refer to a previous establishment that had already started to be built when it was burned by the Persians at 480 BC,
 at the position where the Parthenon was built later on [1]. The Parthenon was finally completed in 438 BC although some minor
@@ -113,7 +113,7 @@ The development of astronomy [17] by the Greek and Hellenistic astronomers is co
 
 The marathon[18] is a long-distance running race with an official distance of 42.195 kilometres (26.219 miles, or 26 miles 385 yards), usually run as a road race. The event was instituted in commemoration of the fabled run of the Greek soldier Pheidippides (more correctly, Philippides), a messenger from the Battle of Marathon to Athens, who reported the victory.
 
-The name Marathon comes from the legend of Philippides or Pheidippides, the Greek messenger. The legend states that he was sent from the battlefield of Marathon to Athens to announce that the Persians had been defeated in the Battle of Marathon (in which he had just fought), which took place in August or September, 490 BC. It is said that he ran the entire distance without stopping and burst into the assembly, exclaiming ŒΩŒµŒΩŒπŒ∫ŒÆŒ∫Œ±ŒºŒµŒΩ (nenik?kamen, "we have won!"), before collapsing and dying.
+The name Marathon comes from the legend of Philippides or Pheidippides, the Greek messenger. The legend states that he was sent from the battlefield of Marathon to Athens to announce that the Persians had been defeated in the Battle of Marathon (in which he had just fought), which took place in August or September, 490 BC. It is said that he ran the entire distance without stopping and burst into the assembly, exclaiming ÌÂÌÈÍﬁÍ·ÏÂÌ (nenik?kamen, "we have won!"), before collapsing and dying.
 
 The marathon was one of the original modern Olympic events in 1896, though the distance did not become standardized until 1921. More than 500 marathons are held throughout the world each year, with the vast majority of competitors being recreational athletes as larger marathons can have tens of thousands of participants.
 
@@ -121,9 +121,9 @@ The marathon was one of the original modern Olympic events in 1896, though the d
 
 The Greek coast has a total length of approximately 16,000 km. Half of this length includes the thousands of Greek islands scattered through the Greek seas, while the rest extends along the mainland.
 The Greek shores are world-famous and exceedingly popular because they are known for their crystal clean and clear waters, as well as for their unique diversity.
-The visitor has the opportunity to enjoy beaches stretching along over many kilometers, sheltered bays and coves, golden stretches of sand with dunes, pebble beaches, coastal caves with steep rocks and dark sand typical of volcanic soil. Every year hundreds of beaches and marinas in Greece are awarded with the ‚ÄúBlue Flag‚Äù.
+The visitor has the opportunity to enjoy beaches stretching along over many kilometers, sheltered bays and coves, golden stretches of sand with dunes, pebble beaches, coastal caves with steep rocks and dark sand typical of volcanic soil. Every year hundreds of beaches and marinas in Greece are awarded with the ìBlue Flagî.
 Most of the thousands of Greek coasts are freely accessible and you can easily discover and enjoy them.
-There are also many organized beaches in the country, with the necessary infrastructure providing high-quality services (umbrellas, reclining chairs, change booths, cafes, bar-restaurants etc), where, apart from swimming, you can enjoy water sports (water skiing, windsurfing, diving, etc) as well as other means of having fun in the water, such as the parasailing, ‚Äúinner tubes‚Äù, ‚Äúbananas‚Äù, wakeboard, jet ski, etc. All organized beaches also have manned lifeguard towers, ensuring safe swimming in the area.
+There are also many organized beaches in the country, with the necessary infrastructure providing high-quality services (umbrellas, reclining chairs, change booths, cafes, bar-restaurants etc), where, apart from swimming, you can enjoy water sports (water skiing, windsurfing, diving, etc) as well as other means of having fun in the water, such as the parasailing, ìinner tubesî, ìbananasî, wakeboard, jet ski, etc. All organized beaches also have manned lifeguard towers, ensuring safe swimming in the area.
 
 ###Phaistos Disc
 
@@ -137,7 +137,7 @@ Although the Phaistos Disc is generally accepted as authentic by archaeologists,
 
 ###Sieve of Eratosthenes
 
-In mathematics, the sieve of Eratosthenes (Ancient Greek: Œ∫œåœÉŒ∫ŒπŒΩŒøŒΩ ?œÅŒ±œÑŒøœÉŒ∏Œ≠ŒΩŒøœÖœÇ, koskinon Eratosthenous), one of a number of prime number sieves, is a simple, ancient algorithm for finding all prime numbers up to any given limit. It does so by iteratively marking as composite (i.e., not prime) the multiples of each prime, starting with the multiples of 2.[1]
+In mathematics, the sieve of Eratosthenes (Ancient Greek: Í¸ÛÍÈÌÔÌ ?Ò·ÙÔÛË›ÌÔıÚ, koskinon Eratosthenous), one of a number of prime number sieves, is a simple, ancient algorithm for finding all prime numbers up to any given limit. It does so by iteratively marking as composite (i.e., not prime) the multiples of each prime, starting with the multiples of 2.[1]
 
 The multiples of a given prime are generated as a sequence of numbers starting from that prime, with constant difference between them that is equal to that prime.[1] This is the sieve's key distinction from using trial division to sequentially test each candidate number for divisibility by each prime.[2]
 
@@ -151,7 +151,7 @@ The first vending machine was a construction of Heron of Alexandria (c. 10-70 AD
 
 ###Strained yogurt
 
-Strained yogurt, Greek yogurt, yogurt cheese, or labneh (Arabic: ŸÑÿ®ŸÜÿ©‚Äé‚Äé labnah, pronounced LEB-neigh), is yogurt that has been strained to remove its whey, resulting in a thicker consistency than unstrained yogurt, while preserving yogurt's distinctive, sour taste. Like many types of yogurt, strained yogurt is often made from milk that has been enriched by boiling off some of its water content, or by adding extra butterfat and powdered milk. In Europe and North America, it is often made with low-fat or fat-free yogurt. In Scandinavia, particularly Iceland, a similar product, skyr is produced. [23]
+Strained yogurt, Greek yogurt, yogurt cheese, or labneh (Arabic: ?????? labnah, pronounced LEB-neigh), is yogurt that has been strained to remove its whey, resulting in a thicker consistency than unstrained yogurt, while preserving yogurt's distinctive, sour taste. Like many types of yogurt, strained yogurt is often made from milk that has been enriched by boiling off some of its water content, or by adding extra butterfat and powdered milk. In Europe and North America, it is often made with low-fat or fat-free yogurt. In Scandinavia, particularly Iceland, a similar product, skyr is produced. [23]
 
 ### Olympic games
 
@@ -165,14 +165,14 @@ has its origins in the Greek hydraulis. [28]
 
 ###Tragedy
 
-Athenian tragedy [29] -the oldest surviving form of tragedy- is a type of dance-drama that formed an important part of the theatrical culture of the city-state. Tragedy‚Äôs origins are estimated to be in the theatre of ancient Greece 2500 years ago, from which there survives only a fraction of the work of Aeschylus, Sophocles and Euripides.
+Athenian tragedy [29] -the oldest surviving form of tragedy- is a type of dance-drama that formed an important part of the theatrical culture of the city-state. Tragedyís origins are estimated to be in the theatre of ancient Greece 2500 years ago, from which there survives only a fraction of the work of Aeschylus, Sophocles and Euripides.
 
-Tragedy is a form of drama based on human suffering that invokes an accompanying catharsis [30] or pleasure in audiences. The term did not have the negative impact we give it today, as it did not just describe a tragic event. Tragedy was the collision of two ‚Äúrights‚Äù that was based on a truth. This collision was indeed unfair for one of the two parties, but this did not make it any less righteous, as it served justice.
+Tragedy is a form of drama based on human suffering that invokes an accompanying catharsis [30] or pleasure in audiences. The term did not have the negative impact we give it today, as it did not just describe a tragic event. Tragedy was the collision of two ìrightsî that was based on a truth. This collision was indeed unfair for one of the two parties, but this did not make it any less righteous, as it served justice.
 
 ###Souvlaki
 
-Souvlaki [31] (Greek: œÉŒøœÖŒ≤ŒªŒ¨Œ∫Œπ [suÀàvlaci]), plural souvlakia, is a popular Greek fast food consisting of small pieces of meat and sometimes vegetables grilled on a skewer. It is usually served with grilled bread, or in a pita wrap with garnishes and sauces, or on a dinner plate, often with fried potatoes. The meat usually used in Greece and Cyprus is pork, although chicken and lamb may also be used. In other countries and for tourists, including those in Oxford, souvlaki may be made with meats such as lamb, beef, chicken and sometimes fish.
-The word souvlaki is a diminutive of the Medieval Greek œÉŒøœçŒ≤ŒªŒ± souvla 'skewer', itself borrowed from Latin subula. 'Souvlaki' is the common term in northern Greece, while in southern Greece it is commonly known as 'kalamaki'.
+Souvlaki [31] (Greek: ÛÔı‚Î‹ÍÈ [su?vlaci]), plural souvlakia, is a popular Greek fast food consisting of small pieces of meat and sometimes vegetables grilled on a skewer. It is usually served with grilled bread, or in a pita wrap with garnishes and sauces, or on a dinner plate, often with fried potatoes. The meat usually used in Greece and Cyprus is pork, although chicken and lamb may also be used. In other countries and for tourists, including those in Oxford, souvlaki may be made with meats such as lamb, beef, chicken and sometimes fish.
+The word souvlaki is a diminutive of the Medieval Greek ÛÔ˝‚Î· souvla 'skewer', itself borrowed from Latin subula. 'Souvlaki' is the common term in northern Greece, while in southern Greece it is commonly known as 'kalamaki'.
 
 ###Nasia will remove this
 
@@ -203,13 +203,19 @@ Meteora [37] is a Greek mountain which consists mainly of rocks and it has a lot
 
 Philotimo [38] is considered to be the highest of all Greek virtues which determines and regulates how someone should behave in their family and social groups. It is mostly about respect and doing the right thing. In its simplest form it means "doing good", and it ensures your behavior will make you stand out from others. It will demonstrate what kind of a person you are and the manner in which you were brought up. Philotimo to a Greek is essentially a way of life.
 
-Children are said to have philotimo when they display unconditional love and respect towards their parents, grandparents and friends. It can mean gratitude for a small gift someone might have given you, or a small random act of kindness someone may have shown you. It is an appreciation and admiration for heritage and ancestors ‚Äî philotimo is honor and pride.
+Children are said to have philotimo when they display unconditional love and respect towards their parents, grandparents and friends. It can mean gratitude for a small gift someone might have given you, or a small random act of kindness someone may have shown you. It is an appreciation and admiration for heritage and ancestors ó philotimo is honor and pride.
 
 During the Second World War, strong bonds were formed and still exist in places like the Greek island of Crete where the locals would risk their own lives to hide and shelter Australian and British soldiers from the Nazi occupying forces. The locals felt duty-bound to help, their philotimo urged them on - If caught, they risked facing a firing squad.
 
 Philotimo is the feeling of not being able to do enough for your family, society and your community; it is expressed through acts of generosity and sacrifice without expecting anything in return. Philotimo is to put the needs and well being of others before one's own, even before one's need to live or exist.
 
-The 7th-century BC pre-Socratic [39] Greek philosopher Thales [40] , one of the Seven Sages of Greece [41] says that philotimo is part of the essence of being Greek. ‚ÄúPhilotimo to the Greek is like breathing. A Greek is not a Greek without it. He might as well not be alive.‚Äù
+The 7th-century BC pre-Socratic [39] Greek philosopher Thales [40] , one of the Seven Sages of Greece [41] says that philotimo is part of the essence of being Greek. ìPhilotimo to the Greek is like breathing. A Greek is not a Greek without it. He might as well not be alive.î
+
+###Feta
+
+Feta is a brined curd white cheese made in Greece from sheep's milk, or from a mixture of sheep and goat's milk. Similar brined white cheeses produces in Europe are often made partly or wholly of cow's milk, and they are also sometimes called feta. It is a crumbly aged cheese, commonly produced in blocks, and has a slightly grainy texture. Feta is used as a table cheese, as well as in salads (e.g. the Greek salad) and pastries. Most notable is its use in the popular phyllo-based dishes spanakopita ("spinach pie") and tyropita ("cheese pie"), or served with some olive oil or olives and sprinkled with aromatic herbs such as oregano. It can also be served cooked or grilled, as part of a sandwich, in omelettes, or as a salty alternative to other cheeses in a variety of dishes.
+
+Since 2002, "feta" has been a protected designation of origin product in the European Union. According to the relevant EU legislation, only those cheeses produced in a traditional way in particular areas of Greece, which are made from sheep's milk, or from a mixture of sheep's and up to 30% of goat's milk from the same area, can be called "feta".[1] However, similar white-brined cheeses (often called "white cheese" in various languages) are found in the Eastern Mediterranean and around the Black Sea.
 
 ##References
 
@@ -294,3 +300,5 @@ The 7th-century BC pre-Socratic [39] Greek philosopher Thales [40] , one of the 
 40. https://en.wikipedia.org/wiki/Thales_of_Miletus
 
 41. https://en.wikipedia.org/wiki/Seven_Sages_of_Greece
+
+42. https://en.wikipedia.org/wiki/Feta
