@@ -151,8 +151,8 @@ The first vending machine was a construction of Heron of Alexandria (c. 10-70 AD
 
 ###Strained yogurt
 
-Strained yogurt, Greek yogurt, yogurt cheese, or labneh (Arabic: لبنة‎‎ labnah, pronounced LEB-neigh), is yogurt that has been strained to remove its whey, resulting in a thicker consistency than unstrained yogurt, while preserving yogurt's distinctive, sour taste. Like many types of yogurt, strained yogurt is often made from milk that has been enriched by boiling off some of its water content, or by adding extra butterfat and powdered milk. In Europe and North America, it is often made with low-fat or fat-free yogurt. In Scandinavia, particularly Iceland, a similar product, skyr is produced. [23]7
->>>>>>> 0e8518462a2cba2b2725f6d211ab6de98eb90397
+Strained yogurt, Greek yogurt, yogurt cheese, or labneh (Arabic: لبنة‎‎ labnah, pronounced LEB-neigh), is yogurt that has been strained to remove its whey, resulting in a thicker consistency than unstrained yogurt, while preserving yogurt's distinctive, sour taste. Like many types of yogurt, strained yogurt is often made from milk that has been enriched by boiling off some of its water content, or by adding extra butterfat and powdered milk. In Europe and North America, it is often made with low-fat or fat-free yogurt. In Scandinavia, particularly Iceland, a similar product, skyr is produced. [23]
+
 ### Olympic games
 
 The Ancient Olympic Games were religious and athletic festivals held every four years at the sanctuary of Zeus in Olympia, Greece. Competition was among representatives of several city-states and kingdoms of Ancient Greece. These Games featured mainly athletic but also combat sports such as wrestling and the pankration, horse and chariot racing events. It has been widely written that during the Games, all conflicts among the participating city-states were postponed until the Games were finished. This cessation of hostilities was known as the Olympic peace or truce.[3] This idea is a modern myth because the Greeks never suspended their wars. 
