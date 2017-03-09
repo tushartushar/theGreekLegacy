@@ -158,10 +158,10 @@ Strained yogurt, Greek yogurt, yogurt cheese, or labneh (Arabic: لبنة‎‎ 
 The Ancient Olympic Games were religious and athletic festivals held every four years at the sanctuary of Zeus in Olympia, Greece. Competition was among representatives of several city-states and kingdoms of Ancient Greece. These Games featured mainly athletic but also combat sports such as wrestling and the pankration, horse and chariot racing events. It has been widely written that during the Games, all conflicts among the participating city-states were postponed until the Games were finished. This cessation of hostilities was known as the Olympic peace or truce.[3] This idea is a modern myth because the Greeks never suspended their wars. 
 
 ###Music
-Much of modern Western music theory has its roots in the work of Pythagoras, who defined concepts such as the interval, harmonics, overtones, etc. [10]
+Much of modern Western music theory has its roots in the work of Pythagoras, who defined concepts such as the interval, harmonics, overtones, etc. [26]
 From Pythagoras also comes the Circle of Fifths, a fundamental device in music theory, and with it, the 12-tone equal temperament, which is the tuning
-system all Western instruments adhere to. [26] The pipe organ, widely used in Catholic religious music and Baroque music by composers such as J.S. Bach,
-has its origins in the Greek hydraulis. [27]
+system all Western instruments adhere to. [27] The pipe organ, widely used in Catholic religious music and Baroque music by composers such as J.S. Bach,
+has its origins in the Greek hydraulis. [28]
 
 ##References
 
@@ -213,9 +213,11 @@ has its origins in the Greek hydraulis. [27]
 
 24. https://en.wikipedia.org/wiki/Ancient_Greek_philosophy
 
-25.https://en.wikipedia.org/wiki/Olympic_Games#Ancient_Olympics
+25. https://en.wikipedia.org/wiki/Olympic_Games#Ancient_Olympics
 
-26. https://en.wikipedia.org/wiki/Pythagorean_comma#Circle_of_fifths_and_enharmonic_change
+26. https://en.wikipedia.org/wiki/Music_of_ancient_Greece#Music_and_philosophy
 
-27. https://en.wikipedia.org/wiki/Organ_(music)#Historical_instruments
+27. https://en.wikipedia.org/wiki/Pythagorean_comma#Circle_of_fifths_and_enharmonic_change
+
+28. https://en.wikipedia.org/wiki/Organ_(music)#Historical_instruments
 
