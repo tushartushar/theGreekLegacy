@@ -169,6 +169,11 @@ Athenian tragedy [29] —the oldest surviving form of tragedy—is a type of dan
 
 Tragedy is a form of drama based on human suffering that invokes an accompanying catharsis [30] or pleasure in audiences. The term did not have the negative impact we give it today, as it did not just describe a tragic event. Tragedy was the collision of two “rights” that was based on a truth. This collision was indeed unfair for one of the two parties, but this did not make it any less righteous, as it served justice.
 
+###Souvlaki
+
+Souvlaki [31] (Greek: σουβλάκι [suˈvlaci]), plural souvlakia, is a popular Greek fast food consisting of small pieces of meat and sometimes vegetables grilled on a skewer. It is usually served with grilled bread, or in a pita wrap with garnishes and sauces, or on a dinner plate, often with fried potatoes. The meat usually used in Greece and Cyprus is pork, although chicken and lamb may also be used. In other countries and for tourists, including those in Oxford, souvlaki may be made with meats such as lamb, beef, chicken and sometimes fish.
+The word souvlaki is a diminutive of the Medieval Greek σούβλα souvla 'skewer', itself borrowed from Latin subula. 'Souvlaki' is the common term in northern Greece, while in southern Greece it is commonly known as 'kalamaki'.
+
 ##References
 
 1. http://ancient-greece.org/architecture/parthenon.html
@@ -231,3 +236,4 @@ Tragedy is a form of drama based on human suffering that invokes an accompanying
 
 30. https://en.wikipedia.org/wiki/Catharsis
 
+31. https://en.wikipedia.org/wiki/Souvlaki
