@@ -165,7 +165,7 @@ has its origins in the Greek hydraulis. [28]
 
 ###Tragedy 
 
-Athenian tragedy [29] —the oldest surviving form of tragedy—is a type of dance-drama that formed an important part of the theatrical culture of the city-state. Tragedy’s origins are estimated to be in the theatre of ancient Greece 2500 years ago, from which there survives only a fraction of the work of Aeschylus, Sophocles and Euripides.
+Athenian tragedy [29] —the oldest surviving form of tragedy— is a type of dance-drama that formed an important part of the theatrical culture of the city-state. Tragedy’s origins are estimated to be in the theatre of ancient Greece 2500 years ago, from which there survives only a fraction of the work of Aeschylus, Sophocles and Euripides.
 
 Tragedy is a form of drama based on human suffering that invokes an accompanying catharsis [30] or pleasure in audiences. The term did not have the negative impact we give it today, as it did not just describe a tragic event. Tragedy was the collision of two “rights” that was based on a truth. This collision was indeed unfair for one of the two parties, but this did not make it any less righteous, as it served justice.
 
