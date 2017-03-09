@@ -182,6 +182,11 @@ The Hippocratic Oath is an oath historically taken by physicians. It is one of t
 
 Hippocrates is often called the father of medicine in Western culture.[1] The original oath was written in Ionic Greek, in the late Fifth Century BCE.[2] It is usually included in the Hippocratic Corpus.
 
+###Odeon of Herodes Atticus
+
+The Odeon of Herodes Atticus [33] is a stone theatre structure located on the southwest slope of the Acropolis of Athens[34].It was built in 161 AD by the Athenian magnate Herodes Atticus[34] in memory of his wife, Aspasia Annia Regilla. 
+It was originally a steep-sloped theater with a three-story stone front wall and a wooden roof made of expensive, cedar of Lebanon timber[35]. It was used as a venue for music concerts with a capacity of 5,000. It lasted intact until it was destroyed and left in ruins by the Heruli in 267 AD.
+The audience stands and the orchestra (stage) were restored using pentelic marble in the 1950s. Since then it has been the main venue of the Athens Festival, which runs from May through October each year, featuring a variety of acclaimed Greek as well as International performances.
 
 ##References
 
@@ -248,3 +253,9 @@ Hippocrates is often called the father of medicine in Western culture.[1] The or
 31. https://en.wikipedia.org/wiki/Souvlaki
 
 32. https://en.wikipedia.org/wiki/Hippocratic_Oath
+
+33. https://en.wikipedia.org/wiki/Odeon_of_Herodes_Atticus
+
+34. https://en.wikipedia.org/wiki/Acropolis_of_Athens
+
+35. https://en.wikipedia.org/wiki/Cedrus_libani#Subspecies
