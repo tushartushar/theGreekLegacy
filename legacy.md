@@ -227,3 +227,7 @@ Tragedy is a form of drama based on human suffering that invokes an accompanying
 
 28. https://en.wikipedia.org/wiki/Organ_(music)#Historical_instruments
 
+29. https://en.wikipedia.org/wiki/Tragedy
+
+30. https://en.wikipedia.org/wiki/Catharsis
+
