@@ -174,8 +174,6 @@ Tragedy is a form of drama based on human suffering that invokes an accompanying
 Souvlaki [31] (Greek: ÛÔı‚Î‹ÍÈ [su?vlaci]), plural souvlakia, is a popular Greek fast food consisting of small pieces of meat and sometimes vegetables grilled on a skewer. It is usually served with grilled bread, or in a pita wrap with garnishes and sauces, or on a dinner plate, often with fried potatoes. The meat usually used in Greece and Cyprus is pork, although chicken and lamb may also be used. In other countries and for tourists, including those in Oxford, souvlaki may be made with meats such as lamb, beef, chicken and sometimes fish.
 The word souvlaki is a diminutive of the Medieval Greek ÛÔ˝‚Î· souvla 'skewer', itself borrowed from Latin subula. 'Souvlaki' is the common term in northern Greece, while in southern Greece it is commonly known as 'kalamaki'.
 
-###Nasia will remove this
-
 ###Hippocratic Oath
 
 The Hippocratic Oath is an oath historically taken by physicians. It is one of the most widely known of Greek medical texts. In its original form, it requires a new physician to swear, by a number of healing gods, to uphold specific ethical standards. Of historic and traditional value, the oath is considered a rite of passage for practitioners of medicine in many countries, although nowadays various modernized versions are often used; the message delivered is still the same: do no harm.
@@ -216,6 +214,17 @@ The 7th-century BC pre-Socratic [39] Greek philosopher Thales [40] , one of the 
 Feta is a brined curd white cheese made in Greece from sheep's milk, or from a mixture of sheep and goat's milk. Similar brined white cheeses produces in Europe are often made partly or wholly of cow's milk, and they are also sometimes called feta. It is a crumbly aged cheese, commonly produced in blocks, and has a slightly grainy texture. Feta is used as a table cheese, as well as in salads (e.g. the Greek salad) and pastries. Most notable is its use in the popular phyllo-based dishes spanakopita ("spinach pie") and tyropita ("cheese pie"), or served with some olive oil or olives and sprinkled with aromatic herbs such as oregano. It can also be served cooked or grilled, as part of a sandwich, in omelettes, or as a salty alternative to other cheeses in a variety of dishes.
 
 Since 2002, "feta" has been a protected designation of origin product in the European Union. According to the relevant EU legislation, only those cheeses produced in a traditional way in particular areas of Greece, which are made from sheep's milk, or from a mixture of sheep's and up to 30% of goat's milk from the same area, can be called "feta".[1] However, similar white-brined cheeses (often called "white cheese" in various languages) are found in the Eastern Mediterranean and around the Black Sea.
+
+###Greek Hospitality
+
+The greek word "Xenia" [43], which can be translated as "guest-friendship" is the ancient Greek concept of hospitality, the generosity and courtesy shown to those who are far from home and/or associates of the person bestowing guest-friendship.
+
+Consequently, "Xenia" consists of two basic rules. The first one is that the host must be hospitable to the guest and provide him/her with food, drink, bath and gifts when they leave. It is not polite to ask questions until the guest has finished the meal provided to them. And the second on is that the guest must be courteous to the host and not be a burden. The guest should also provide a gift if they have one.
+
+In addition, "Xenia" was considered to be particularly important in ancient times when people thought gods mingled among them. If one had poorly played host to a stranger, there was the risk of incurring the wrath of a god disguised as the stranger. Note that the greek god Zeus was sometimes called Zeus Xenios in his role as a protector of guests. He thus embodied the religious obligation to be hospitable to travelers.
+
+Even though hospitality nowadays may differs, it is still visible [44]. In the past, travelers used to rely on the hospitality of others for shelter, food, and protection. In modern times there is no need to for someone to ask for these, since there are plenty of hotels and restaurants almost anywhere one can go.
+However, hospitality is still shown in modern society. For example, when someoneís car breaks down most people would welcome them into their homes and help them in any way they can without even asking who they are. Also, most people know of someone, be it family or friend, in a different city that would welcome them and provide them with a place to stay and food, which is similar to the "Xenia".
 
 ##References
 
@@ -302,3 +311,7 @@ Since 2002, "feta" has been a protected designation of origin product in the Eur
 41. https://en.wikipedia.org/wiki/Seven_Sages_of_Greece
 
 42. https://en.wikipedia.org/wiki/Feta
+
+42. https://en.wikipedia.org/wiki/Xenia_(Greek)
+
+43. https://minerva.union.edu/wareht/gkcultur/guide/8/web1.html
