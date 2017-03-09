@@ -312,6 +312,6 @@ However, hospitality is still shown in modern society. For example, when someone
 
 42. https://en.wikipedia.org/wiki/Feta
 
-42. https://en.wikipedia.org/wiki/Xenia_(Greek)
+43. https://en.wikipedia.org/wiki/Xenia_(Greek)
 
-43. https://minerva.union.edu/wareht/gkcultur/guide/8/web1.html
+44. https://minerva.union.edu/wareht/gkcultur/guide/8/web1.html
