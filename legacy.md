@@ -176,6 +176,13 @@ The word souvlaki is a diminutive of the Medieval Greek σούβλα souvla 'ske
 
 ###Nasia will remove this
 
+###Hippocratic Oath
+
+The Hippocratic Oath is an oath historically taken by physicians. It is one of the most widely known of Greek medical texts. In its original form, it requires a new physician to swear, by a number of healing gods, to uphold specific ethical standards. Of historic and traditional value, the oath is considered a rite of passage for practitioners of medicine in many countries, although nowadays various modernized versions are often used; the message delivered is still the same: do no harm.
+
+Hippocrates is often called the father of medicine in Western culture.[1] The original oath was written in Ionic Greek, in the late Fifth Century BCE.[2] It is usually included in the Hippocratic Corpus.
+
+
 ##References
 
 1. http://ancient-greece.org/architecture/parthenon.html
@@ -239,3 +246,5 @@ The word souvlaki is a diminutive of the Medieval Greek σούβλα souvla 'ske
 30. https://en.wikipedia.org/wiki/Catharsis
 
 31. https://en.wikipedia.org/wiki/Souvlaki
+
+32. https://en.wikipedia.org/wiki/Hippocratic_Oath
