@@ -199,6 +199,18 @@ then , they love in depth each other. Nowadays Eros is still being learned in th
 
 Meteora [37] is a Greek mountain which consists mainly of rocks and it has a lot Greek Orthodox monasteries. Actually, meteora means "middle of the sky", "suspended in the air" or "in the heavens above". Meteora is one of the UNESCO World Heritage List. It would be a fault not to mention that meteora were inhabited between 50.000 and 5.000 years ago and this place contained a lot of caves were people lived.This caves are known as the oldest example of man-made structure. Furthermore, in the 16th century it had 24 monasteries from which only six remain inhabited today, two by women and four by men. Mainly the monasteries are not tourist attractions.
 
+###Philotimo
+
+Philotimo [38] is considered to be the highest of all Greek virtues which determines and regulates how someone should behave in their family and social groups. It is mostly about respect and doing the right thing. In its simplest form it means "doing good", and it ensures your behavior will make you stand out from others. It will demonstrate what kind of a person you are and the manner in which you were brought up. Philotimo to a Greek is essentially a way of life.
+
+Children are said to have philotimo when they display unconditional love and respect towards their parents, grandparents and friends. It can mean gratitude for a small gift someone might have given you, or a small random act of kindness someone may have shown you. It is an appreciation and admiration for heritage and ancestors — philotimo is honor and pride.
+
+During the Second World War, strong bonds were formed and still exist in places like the Greek island of Crete where the locals would risk their own lives to hide and shelter Australian and British soldiers from the Nazi occupying forces. The locals felt duty-bound to help, their philotimo urged them on - If caught, they risked facing a firing squad.
+
+Philotimo is the feeling of not being able to do enough for your family, society and your community; it is expressed through acts of generosity and sacrifice without expecting anything in return. Philotimo is to put the needs and well being of others before one's own, even before one's need to live or exist.
+
+The 7th-century BC pre-Socratic [39] Greek philosopher Thales [40] , one of the Seven Sages of Greece [41] says that philotimo is part of the essence of being Greek. “Philotimo to the Greek is like breathing. A Greek is not a Greek without it. He might as well not be alive.”
+
 ##References
 
 1. http://ancient-greece.org/architecture/parthenon.html
@@ -274,3 +286,11 @@ Meteora [37] is a Greek mountain which consists mainly of rocks and it has a lot
 36. https://en.wikipedia.org/wiki/Eros
 
 37. https://en.wikipedia.org/wiki/Meteora
+
+38. https://en.wikipedia.org/wiki/Philotimo
+
+39. https://en.wikipedia.org/wiki/Pre-Socratic_philosophy
+
+40. https://en.wikipedia.org/wiki/Thales_of_Miletus
+
+41. https://en.wikipedia.org/wiki/Seven_Sages_of_Greece
