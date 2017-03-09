@@ -122,7 +122,7 @@ The marathon was one of the original modern Olympic events in 1896, though the d
 The Greek coast has a total length of approximately 16,000 km. Half of this length includes the thousands of Greek islands scattered through the Greek seas, while the rest extends along the mainland.
 The Greek shores are world-famous and exceedingly popular because they are known for their crystal clean and clear waters, as well as for their unique diversity.
 The visitor has the opportunity to enjoy beaches stretching along over many kilometers, sheltered bays and coves, golden stretches of sand with dunes, pebble beaches, coastal caves with steep rocks and dark sand typical of volcanic soil. Every year hundreds of beaches and marinas in Greece are awarded with the “Blue Flag”.
-Most of the thousands of Greek coasts are freely accessible and you can easily discover and enjoy them. 
+Most of the thousands of Greek coasts are freely accessible and you can easily discover and enjoy them.
 There are also many organized beaches in the country, with the necessary infrastructure providing high-quality services (umbrellas, reclining chairs, change booths, cafes, bar-restaurants etc), where, apart from swimming, you can enjoy water sports (water skiing, windsurfing, diving, etc) as well as other means of having fun in the water, such as the parasailing, “inner tubes”, “bananas”, wakeboard, jet ski, etc. All organized beaches also have manned lifeguard towers, ensuring safe swimming in the area.
 
 ###Phaistos Disc
@@ -155,7 +155,7 @@ Strained yogurt, Greek yogurt, yogurt cheese, or labneh (Arabic: لبنة‎‎ 
 
 ### Olympic games
 
-The Ancient Olympic Games were religious and athletic festivals held every four years at the sanctuary of Zeus in Olympia, Greece. Competition was among representatives of several city-states and kingdoms of Ancient Greece. These Games featured mainly athletic but also combat sports such as wrestling and the pankration, horse and chariot racing events. It has been widely written that during the Games, all conflicts among the participating city-states were postponed until the Games were finished. This cessation of hostilities was known as the Olympic peace or truce.[3] This idea is a modern myth because the Greeks never suspended their wars. 
+The Ancient Olympic Games were religious and athletic festivals held every four years at the sanctuary of Zeus in Olympia, Greece. Competition was among representatives of several city-states and kingdoms of Ancient Greece. These Games featured mainly athletic but also combat sports such as wrestling and the pankration, horse and chariot racing events. It has been widely written that during the Games, all conflicts among the participating city-states were postponed until the Games were finished. This cessation of hostilities was known as the Olympic peace or truce.[3] This idea is a modern myth because the Greeks never suspended their wars.
 
 ###Music
 Much of modern Western music theory has its roots in the work of Pythagoras, who defined concepts such as the interval, harmonics, overtones, etc. [26]
@@ -163,7 +163,7 @@ From Pythagoras also comes the Circle of Fifths, a fundamental device in music t
 system all Western instruments adhere to. [27] The pipe organ, widely used in Catholic religious music and Baroque music by composers such as J.S. Bach,
 has its origins in the Greek hydraulis. [28]
 
-###Tragedy 
+###Tragedy
 
 Athenian tragedy [29] -the oldest surviving form of tragedy- is a type of dance-drama that formed an important part of the theatrical culture of the city-state. Tragedy’s origins are estimated to be in the theatre of ancient Greece 2500 years ago, from which there survives only a fraction of the work of Aeschylus, Sophocles and Euripides.
 
@@ -184,16 +184,20 @@ Hippocrates is often called the father of medicine in Western culture.[1] The or
 
 ###Odeon of Herodes Atticus
 
-The Odeon of Herodes Atticus [33] is a stone theatre structure located on the southwest slope of the Acropolis of Athens[34].It was built in 161 AD by the Athenian magnate Herodes Atticus[34] in memory of his wife, Aspasia Annia Regilla. 
+The Odeon of Herodes Atticus [33] is a stone theatre structure located on the southwest slope of the Acropolis of Athens[34].It was built in 161 AD by the Athenian magnate Herodes Atticus[34] in memory of his wife, Aspasia Annia Regilla.
 It was originally a steep-sloped theater with a three-story stone front wall and a wooden roof made of expensive, cedar of Lebanon timber[35]. It was used as a venue for music concerts with a capacity of 5,000. It lasted intact until it was destroyed and left in ruins by the Heruli in 267 AD.
 The audience stands and the orchestra (stage) were restored using pentelic marble in the 1950s. Since then it has been the main venue of the Athens Festival, which runs from May through October each year, featuring a variety of acclaimed Greek as well as International performances.
 
 ###Eros
 
-In Greek mythology Eros was the God of love and sex [36] . Greeks were the people who tried first to express the feeling of real love , 
+In Greek mythology Eros was the God of love and sex [36] . Greeks were the people who tried first to express the feeling of real love ,
 while in the rest world people were still trying to understand and control it . In some stories , Eros is supposed to be the son
 of Aphrodite (the Goddess of beauty). Eros is the little invisible winged God and when the arrows of his arc heart two people
 then , they love in depth each other. Nowadays Eros is still being learned in the primary school's books.
+
+###Meteora
+
+Meteora [37] is a Greek mountain which consists mainly of rocks and it has a lot Greek Orthodox monasteries. Actually, meteora means "middle of the sky", "suspended in the air" or "in the heavens above". Meteora is one of the UNESCO World Heritage List. It would be a fault not to mention that meteora were inhabited between 50.000 and 5.000 years ago and this place contained a lot of caves were people lived.This caves are known as the oldest example of man-made structure. Furthermore, in the 16th century it had 24 monasteries from which only six remain inhabited today, two by women and four by men. Mainly the monasteries are not tourist attractions.
 
 ##References
 
@@ -268,3 +272,5 @@ then , they love in depth each other. Nowadays Eros is still being learned in th
 35. https://en.wikipedia.org/wiki/Cedrus_libani#Subspecies
 
 36. https://en.wikipedia.org/wiki/Eros
+
+37. https://en.wikipedia.org/wiki/Meteora
