@@ -1,4 +1,4 @@
-﻿#The Greek Legacy #
+#The Greek Legacy #
 
 Note: Kindly indicate which reference your text is referring to. For example,
 ```
