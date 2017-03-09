@@ -1,4 +1,4 @@
-#The Greek Legacy #
+﻿#The Greek Legacy #
 
 Note: Kindly indicate which reference your text is referring to. For example,
 ```
@@ -188,6 +188,13 @@ The Odeon of Herodes Atticus [33] is a stone theatre structure located on the so
 It was originally a steep-sloped theater with a three-story stone front wall and a wooden roof made of expensive, cedar of Lebanon timber[35]. It was used as a venue for music concerts with a capacity of 5,000. It lasted intact until it was destroyed and left in ruins by the Heruli in 267 AD.
 The audience stands and the orchestra (stage) were restored using pentelic marble in the 1950s. Since then it has been the main venue of the Athens Festival, which runs from May through October each year, featuring a variety of acclaimed Greek as well as International performances.
 
+###Eros
+
+In Greek mythology Eros was the God of love and sex [36] . Greeks were the people who tried first to express the feeling of real love , 
+while in the rest world people were still trying to understand and control it . In some stories , Eros is supposed to be the son
+of Aphrodite (the Goddess of beauty). Eros is the little invisible winged God and when the arrows of his arc heart two people
+then , they love in depth each other. Nowadays Eros is still being learned in the primary school's books.
+
 ##References
 
 1. http://ancient-greece.org/architecture/parthenon.html
@@ -259,3 +266,5 @@ The audience stands and the orchestra (stage) were restored using pentelic marbl
 34. https://en.wikipedia.org/wiki/Acropolis_of_Athens
 
 35. https://en.wikipedia.org/wiki/Cedrus_libani#Subspecies
+
+36. https://en.wikipedia.org/wiki/Eros
