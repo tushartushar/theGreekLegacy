@@ -160,8 +160,8 @@ The Ancient Olympic Games were religious and athletic festivals held every four 
 ###Music
 Much of modern Western music theory has its roots in the work of Pythagoras, who defined concepts such as the interval, harmonics, overtones, etc. [10]
 From Pythagoras also comes the Circle of Fifths, a fundamental device in music theory, and with it, the 12-tone equal temperament, which is the tuning
-system all Western instruments adhere to. [11] The pipe organ, widely used in Catholic religious music and Baroque music by composers such as J.S. Bach,
-has its origins in the Greek hydraulis. [12]
+system all Western instruments adhere to. [26] The pipe organ, widely used in Catholic religious music and Baroque music by composers such as J.S. Bach,
+has its origins in the Greek hydraulis. [27]
 
 ##References
 
