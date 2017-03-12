@@ -1,2 +1,4 @@
-# theGreekLegacy
-The Greek Legacy
+# The Greek Legacy
+In the spring 2017 semester, a tutorial on git and GitHub (slides can be found [here](https://www.slideshare.net/slideshare4tushar/version-control-systems-72764808)) was delivered to students taking SEIP (Software Engineering In Practice) course. The students got an assignment during this tutorial - to contribute to a GitHub repository i.e., "The Greek Legacy". In the assignment, each student has to write about one contribution from Greeks to the world. The goals of the assignment were not only to help the students understand how they can use git and GitHub (since they supposed to contribute to a single file in the repository) but also to bring out the feeling of pride among them. The assignment not only achieved the above goals, but also prepared a summary of notable Greek contributions to the world that many of us might not know.
+
+You are welcome to contribute more to this repository. 
