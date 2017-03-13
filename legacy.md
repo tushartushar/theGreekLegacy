@@ -19,7 +19,7 @@ Democracy can be traced back from the present day to classical Athens and Greeks
 
 ###Pap test
 
-The Papanicolaou test [7] (abbreviated as Pap test, known earlier as Pap smear, cervical smear, or smear test) is a method of cervical
+The Papanicolaou test [7] -abbreviated as Pap test, known earlier as Pap smear, cervical smear, or smear test- is a method of cervical
 screening used to detect potentially pre-cancerous and cancerous processes in the cervix (opening of the uterus or womb). Abnormal
 findings are often followed up by more sensitive diagnostic procedures, and, if warranted, interventions that aim to prevent progression
  to cervical cancer. The test was invented by, and named for, the prominent Greek doctor Georgios Papanikolaou.
@@ -127,7 +127,7 @@ There are also many organized beaches in the country, with the necessary infrast
 
 ###Phaistos Disc
 
-The Phaistos Disc [20] (also spelled Phaistos Disk, Phaestos Disc) is a disk of fired clay from the Minoan palace of Phaistos on the island of Crete, possibly dating to the middle or late Minoan Bronze Age (second millennium B.C.). Now, the island of Crete is part of modern Greece. The disk is about 15 cm (5.9 in) in diameter and covered on both sides with a spiral of stamped symbols. Its purpose and meaning, and even its original geographical place of manufacture, remain disputed, making it one of the most famous mysteries of archaeology. This unique object is now on display at the archaeological museum of Heraklion.
+The Phaistos Disc [20] -also spelled Phaistos Disk, Phaestos Disc- is a disk of fired clay from the Minoan palace of Phaistos on the island of Crete, possibly dating to the middle or late Minoan Bronze Age (second millennium B.C.). Now, the island of Crete is part of modern Greece. The disk is about 15 cm (5.9 in) in diameter and covered on both sides with a spiral of stamped symbols. Its purpose and meaning, and even its original geographical place of manufacture, remain disputed, making it one of the most famous mysteries of archaeology. This unique object is now on display at the archaeological museum of Heraklion.
 
 The disc was discovered in 1908 by the Italian archaeologist Luigi Pernier in the Minoan palace-site of Phaistos, and features 241 tokens, comprising 45 distinct signs, which were apparently made by pressing hieroglyphic "seals" into a disc of soft clay, in a clockwise sequence spiraling toward the center of the disk.
 
