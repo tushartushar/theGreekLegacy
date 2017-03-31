@@ -33,7 +33,10 @@ The five Olympic Rings [9] represent all the major regions of the world (Asia, A
 Also, the Olympic colours represent the flags of all the nations that compete in the games.
 The International Olympic committee sees the Olympic Games as an important means to promote world peace through fair and equal athletic competition.
 
+The Ancient Olympic Games were religious and athletic festivals held every four years at the sanctuary of Zeus in Olympia, Greece. Competition was among representatives of several city-states and kingdoms of Ancient Greece. These Games featured mainly athletic but also combat sports such as wrestling and the pankration, horse and chariot racing events. It has been widely written that during the Games, all conflicts among the participating city-states were postponed until the Games were finished. This cessation of hostilities was known as the Olympic peace or truce. This idea is a modern myth because the Greeks never suspended their wars.
+
 ###The Parthenon
+
 The Parthenon [8] is a former temple on top of the sacred place of the Acropolis, situated at the center of Athens, the capital of Greece.
 It is dedicated to the goddess Athena (Modern Greek: "ÁèçíÜ") who is believed to be the city’s patron [8]. It is also estimated that
 the Athenians began its construction at 447 BC during an era when the Athenian Empire was very powerful [8].
@@ -153,11 +156,8 @@ The first vending machine was a construction of Heron of Alexandria (c. 10-70 AD
 
 Strained yogurt, Greek yogurt, yogurt cheese, or labneh (Arabic: ?????? labnah, pronounced LEB-neigh), is yogurt that has been strained to remove its whey, resulting in a thicker consistency than unstrained yogurt, while preserving yogurt's distinctive, sour taste. Like many types of yogurt, strained yogurt is often made from milk that has been enriched by boiling off some of its water content, or by adding extra butterfat and powdered milk. In Europe and North America, it is often made with low-fat or fat-free yogurt. In Scandinavia, particularly Iceland, a similar product, skyr is produced. [23]
 
-### Olympic games
-
-The Ancient Olympic Games were religious and athletic festivals held every four years at the sanctuary of Zeus in Olympia, Greece. Competition was among representatives of several city-states and kingdoms of Ancient Greece. These Games featured mainly athletic but also combat sports such as wrestling and the pankration, horse and chariot racing events. It has been widely written that during the Games, all conflicts among the participating city-states were postponed until the Games were finished. This cessation of hostilities was known as the Olympic peace or truce.[3] This idea is a modern myth because the Greeks never suspended their wars.
-
 ###Music
+
 Much of modern Western music theory has its roots in the work of Pythagoras, who defined concepts such as the interval, harmonics, overtones, etc. [26]
 From Pythagoras also comes the Circle of Fifths, a fundamental device in music theory, and with it, the 12-tone equal temperament, which is the tuning
 system all Western instruments adhere to. [27] The pipe organ, widely used in Catholic religious music and Baroque music by composers such as J.S. Bach,
