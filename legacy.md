@@ -33,7 +33,7 @@ The five Olympic Rings [9] represent all the major regions of the world (Asia, A
 Also, the Olympic colours represent the flags of all the nations that compete in the games.
 The International Olympic committee sees the Olympic Games as an important means to promote world peace through fair and equal athletic competition.
 
-The Ancient Olympic Games were religious and athletic festivals held every four years at the sanctuary of Zeus in Olympia, Greece. Competition was among representatives of several city-states and kingdoms of Ancient Greece. These Games featured mainly athletic but also combat sports such as wrestling and the pankration, horse and chariot racing events. It has been widely written that during the Games, all conflicts among the participating city-states were postponed until the Games were finished. This cessation of hostilities was known as the Olympic peace or truce. This idea is a modern myth because the Greeks never suspended their wars.
+The Ancient Olympic Games [25] were religious and athletic festivals held every four years at the sanctuary of Zeus in Olympia, Greece. Competition was among representatives of several city-states and kingdoms of Ancient Greece. These Games featured mainly athletic but also combat sports such as wrestling and the pankration, horse and chariot racing events. It has been widely written that during the Games, all conflicts among the participating city-states were postponed until the Games were finished. This cessation of hostilities was known as the Olympic peace or truce. This idea is a modern myth because the Greeks never suspended their wars.
 
 ###The Parthenon
 
