@@ -13,13 +13,13 @@ astronomy and geography.
 
 ###Democracy
 
-Democracy is a system of government in which the citizens exercise power directly or elect representatives from among themselves to form a governing body, such as a parliament.[3]
-Democracy is sometimes referred to as "rule of the majority".[5]
-Democracy can be traced back from the present day to classical Athens and Greeks in the 6th century B.C.[3]
+Democracy is a system of government in which the citizens exercise power directly or elect representatives from among themselves to form a governing body, such as a parliament [3].
+Democracy is sometimes referred to as "rule of the majority" [5].
+Democracy can be traced back from the present day to classical Athens and Greeks in the 6th century B.C.[3].
 
 ###Pap test
 
-The Papanicolaou test [7] -abbreviated as Pap test, known earlier as Pap smear, cervical smear, or smear test- is a method of cervical
+The Papanicolaou test [7] - abbreviated as Pap test, known earlier as Pap smear, cervical smear, or smear test - is a method of cervical
 screening used to detect potentially pre-cancerous and cancerous processes in the cervix (opening of the uterus or womb). Abnormal
 findings are often followed up by more sensitive diagnostic procedures, and, if warranted, interventions that aim to prevent progression
  to cervical cancer. The test was invented by, and named for, the prominent Greek doctor Georgios Papanikolaou.
@@ -38,7 +38,7 @@ The Ancient Olympic Games [25] were religious and athletic festivals held every 
 ###The Parthenon
 
 The Parthenon [8] is a former temple on top of the sacred place of the Acropolis, situated at the center of Athens, the capital of Greece.
-It is dedicated to the goddess Athena (Modern Greek: "ÁèçíÜ") who is believed to be the city’s patron [8]. It is also estimated that
+It is dedicated to the goddess Athena (Modern Greek: "Ἀθηνᾶ") who is believed to be the city’s patron [8]. It is also estimated that
 the Athenians began its construction at 447 BC during an era when the Athenian Empire was very powerful [8].
 However, other sources refer to a previous establishment that had already started to be built when it was burned by the Persians at 480 BC,
 at the position where the Parthenon was built later on [1]. The Parthenon was finally completed in 438 BC although some minor
@@ -79,14 +79,13 @@ Additionally, by organising schools to instruct reading at an elementary level, 
 The Antikythera mechanism is an ancient analogue computer and orrery used to predict astronomical positions and eclipses for calendrical and astrological purposes, as well as the Olympiads, the cycles of the ancient Olympic Games.
 
 The Antikythera mechanism was discovered in 45 metres (148 ft) of water in the Antikythera shipwreck off Point Glyphadia on the Greek island of Antikythera. The wreck was found in April 1900 by a group of Greek sponge divers, who retrieved numerous artefacts, including bronze and marble statues,
-
 pottery, unique glassware, jewellery, coins, and the mechanism. All were transferred to the National Museum of Archaeology in Athens for storage and analysis. Merely a lump of corroded bronze and wood at the time, the mechanism went unnoticed for two years while museum staff worked on piecing together more obvious statues
 
 ###Theatre
 
 Theatre [14] is a collaborative form of fine art that uses live performers, typically actors or actresses, to present the experience of a real or imagined event before a live audience in a specific place, often a stage. The performers may communicate this experience to the audience through combinations of gesture, speech, song, music, and dance. Elements of art, such as painted scenery and stagecraft such as lighting are used to enhance the physicality, presence and immediacy of the experience.
 
-The city-state of Athens is where western theatre originated.[4] It was part of a broader culture of theatricality and performance in classical Greece that included festivals, religious rituals, politics, law, athletics and gymnastics, music, poetry, weddings, funerals, and symposia.
+The city-state of Athens is where western theatre originated [4]. It was part of a broader culture of theatricality and performance in classical Greece that included festivals, religious rituals, politics, law, athletics and gymnastics, music, poetry, weddings, funerals, and symposia.
 
 ###Mathematics
 
@@ -116,7 +115,7 @@ The development of astronomy [17] by the Greek and Hellenistic astronomers is co
 
 The marathon[18] is a long-distance running race with an official distance of 42.195 kilometres (26.219 miles, or 26 miles 385 yards), usually run as a road race. The event was instituted in commemoration of the fabled run of the Greek soldier Pheidippides (more correctly, Philippides), a messenger from the Battle of Marathon to Athens, who reported the victory.
 
-The name Marathon comes from the legend of Philippides or Pheidippides, the Greek messenger. The legend states that he was sent from the battlefield of Marathon to Athens to announce that the Persians had been defeated in the Battle of Marathon (in which he had just fought), which took place in August or September, 490 BC. It is said that he ran the entire distance without stopping and burst into the assembly, exclaiming íåíéêÞêáìåí (nenik?kamen, "we have won!"), before collapsing and dying.
+The name Marathon comes from the legend of Philippides or Pheidippides, the Greek messenger. The legend states that he was sent from the battlefield of Marathon to Athens to announce that the Persians had been defeated in the Battle of Marathon (in which he had just fought), which took place in August or September, 490 BC. It is said that he ran the entire distance without stopping and burst into the assembly, exclaiming "νενικήκαμεν" (nenikēkamen, "we have won!"), before collapsing and dying.
 
 The marathon was one of the original modern Olympic events in 1896, though the distance did not become standardized until 1921. More than 500 marathons are held throughout the world each year, with the vast majority of competitors being recreational athletes as larger marathons can have tens of thousands of participants.
 
@@ -140,7 +139,7 @@ Although the Phaistos Disc is generally accepted as authentic by archaeologists,
 
 ###Sieve of Eratosthenes
 
-In mathematics, the sieve of Eratosthenes (Ancient Greek: êüóêéíïí ?ñáôïóèÝíïõò, koskinon Eratosthenous), one of a number of prime number sieves, is a simple, ancient algorithm for finding all prime numbers up to any given limit. It does so by iteratively marking as composite (i.e., not prime) the multiples of each prime, starting with the multiples of 2.[1]
+In mathematics, the sieve of Eratosthenes (Ancient Greek: κόσκινον Ἐρατοσθένους, kóskinon Eratosthénous), one of a number of prime number sieves, is a simple, ancient algorithm for finding all prime numbers up to any given limit. It does so by iteratively marking as composite (i.e., not prime) the multiples of each prime, starting with the multiples of 2.[1]
 
 The multiples of a given prime are generated as a sequence of numbers starting from that prime, with constant difference between them that is equal to that prime.[1] This is the sieve's key distinction from using trial division to sequentially test each candidate number for divisibility by each prime.[2]
 
@@ -154,7 +153,7 @@ The first vending machine was a construction of Heron of Alexandria (c. 10-70 AD
 
 ###Strained yogurt
 
-Strained yogurt, Greek yogurt, yogurt cheese, or labneh (Arabic: ?????? labnah, pronounced LEB-neigh), is yogurt that has been strained to remove its whey, resulting in a thicker consistency than unstrained yogurt, while preserving yogurt's distinctive, sour taste. Like many types of yogurt, strained yogurt is often made from milk that has been enriched by boiling off some of its water content, or by adding extra butterfat and powdered milk. In Europe and North America, it is often made with low-fat or fat-free yogurt. In Scandinavia, particularly Iceland, a similar product, skyr is produced. [23]
+Strained yogurt, Greek yogurt, yogurt cheese, or labneh, is yogurt that has been strained to remove its whey, resulting in a thicker consistency than unstrained yogurt, while preserving yogurt's distinctive, sour taste. Like many types of yogurt, strained yogurt is often made from milk that has been enriched by boiling off some of its water content, or by adding extra butterfat and powdered milk. In Europe and North America, it is often made with low-fat or fat-free yogurt. In Scandinavia, particularly Iceland, a similar product, skyr is produced. [23]
 
 ###Music
 
@@ -165,33 +164,33 @@ has its origins in the Greek hydraulis. [28]
 
 ###Tragedy
 
-Athenian tragedy [29] -the oldest surviving form of tragedy- is a type of dance-drama that formed an important part of the theatrical culture of the city-state. Tragedy’s origins are estimated to be in the theatre of ancient Greece 2500 years ago, from which there survives only a fraction of the work of Aeschylus, Sophocles and Euripides.
+Athenian tragedy [29] - the oldest surviving form of tragedy- is a type of dance-drama that formed an important part of the theatrical culture of the city-state. Tragedy’s origins are estimated to be in the theatre of ancient Greece 2500 years ago, from which there survives only a fraction of the work of Aeschylus, Sophocles and Euripides.
 
 Tragedy is a form of drama based on human suffering that invokes an accompanying catharsis [30] or pleasure in audiences. The term did not have the negative impact we give it today, as it did not just describe a tragic event. Tragedy was the collision of two “rights” that was based on a truth. This collision was indeed unfair for one of the two parties, but this did not make it any less righteous, as it served justice.
 
 ###Souvlaki
 
-Souvlaki [31] (Greek: óïõâëÜêé [su?vlaci]), plural souvlakia, is a popular Greek fast food consisting of small pieces of meat and sometimes vegetables grilled on a skewer. It is usually served with grilled bread, or in a pita wrap with garnishes and sauces, or on a dinner plate, often with fried potatoes. The meat usually used in Greece and Cyprus is pork, although chicken and lamb may also be used. In other countries and for tourists, including those in Oxford, souvlaki may be made with meats such as lamb, beef, chicken and sometimes fish.
+Souvlaki [31] (Greek: σουβλάκι [suˈvlaci]), plural souvlakia, is a popular Greek fast food consisting of small pieces of meat and sometimes vegetables grilled on a skewer. It is usually served with grilled bread, or in a pita wrap with garnishes and sauces, or on a dinner plate, often with fried potatoes. The meat usually used in Greece and Cyprus is pork, although chicken and lamb may also be used. In other countries and for tourists, including those in Oxford, souvlaki may be made with meats such as lamb, beef, chicken and sometimes fish.
 The word souvlaki is a diminutive of the Medieval Greek óïýâëá souvla 'skewer', itself borrowed from Latin subula. 'Souvlaki' is the common term in northern Greece, while in southern Greece it is commonly known as 'kalamaki'.
 
 ###Hippocratic Oath
 
 The Hippocratic Oath is an oath historically taken by physicians. It is one of the most widely known of Greek medical texts. In its original form, it requires a new physician to swear, by a number of healing gods, to uphold specific ethical standards. Of historic and traditional value, the oath is considered a rite of passage for practitioners of medicine in many countries, although nowadays various modernized versions are often used; the message delivered is still the same: do no harm.
 
-Hippocrates is often called the father of medicine in Western culture.[1] The original oath was written in Ionic Greek, in the late Fifth Century BCE.[2] It is usually included in the Hippocratic Corpus.
+Hippocrates is often called the father of medicine in Western culture [1]. The original oath was written in Ionic Greek, in the late Fifth Century BCE [2]. It is usually included in the Hippocratic Corpus.
 
 ###Odeon of Herodes Atticus
 
-The Odeon of Herodes Atticus [33] is a stone theatre structure located on the southwest slope of the Acropolis of Athens[34].It was built in 161 AD by the Athenian magnate Herodes Atticus[34] in memory of his wife, Aspasia Annia Regilla.
+The Odeon of Herodes Atticus [33] is a stone theatre structure located on the southwest slope of the Acropolis of Athens[34]. It was built in 161 AD by the Athenian magnate Herodes Atticus[34] in memory of his wife, Aspasia Annia Regilla.
 It was originally a steep-sloped theater with a three-story stone front wall and a wooden roof made of expensive, cedar of Lebanon timber[35]. It was used as a venue for music concerts with a capacity of 5,000. It lasted intact until it was destroyed and left in ruins by the Heruli in 267 AD.
 The audience stands and the orchestra (stage) were restored using pentelic marble in the 1950s. Since then it has been the main venue of the Athens Festival, which runs from May through October each year, featuring a variety of acclaimed Greek as well as International performances.
 
 ###Eros
 
-In Greek mythology Eros was the God of love and sex [36] . Greeks were the people who tried first to express the feeling of real love ,
-while in the rest world people were still trying to understand and control it . In some stories , Eros is supposed to be the son
+In Greek mythology Eros was the God of love and sex [36] . Greeks were the people who tried first to express the feeling of real love,
+while in the rest world people were still trying to understand and control it. In some stories, Eros is supposed to be the son
 of Aphrodite (the Goddess of beauty). Eros is the little invisible winged God and when the arrows of his arc heart two people
-then , they love in depth each other. Nowadays Eros is still being learned in the primary school's books.
+then, they love in depth each other. Nowadays Eros is still being learned in the primary school's books.
 
 ###Meteora
 
